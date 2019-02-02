@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: Fairness in Machine Learning
+description: This is a collection of papers and other resources related to fairness.
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-111279954-1
+timezone: America/Chicago
