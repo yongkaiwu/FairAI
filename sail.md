@@ -1,4 +1,4 @@
-## Papers from [SAIL](https://sail.uark.edu/)
+# Papers from [SAIL](https://sail.uark.edu/)
 
 1. Yongkai Wu, Lu Zhang, and Xintao Wu, *Fairness-aware Classification: Criterion, Convexity, and Bounds*, in WWW 2019, [link](), [pdf]()
 1. Lu Zhang, Yongkai Wu, and Xintao Wu, *Causal Modeling-Based Discrimination Discovery and Removal: Criteria, Bounds, and Algorithms*, in TKDE, [link](https://ieeexplore.ieee.org/abstract/document/8477109), [pdf]()

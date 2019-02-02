@@ -197,7 +197,7 @@ layout: default
 
 ### [CIKM 2017](https://dblp.uni-trier.de/db/conf/cikm/cikm2017.html)
 1. [FA\*IR: A Fair Top-k Ranking Algorithm](http://doi.acm.org/10.1145/3132847.3132938)
-1. [Algorithmic Bias: Do Good Systems Make Relevant Documents More Retrievable?]](http://doi.acm.org/10.1145/3132847.3133135)
+1. [Algorithmic Bias: Do Good Systems Make Relevant Documents More Retrievable?](http://doi.acm.org/10.1145/3132847.3133135)
 
 ### [COLT 2017](https://dblp.uni-trier.de/db/conf/colt/colt2017.html)
 1. [Learning Non-Discriminatory Predictors](http://proceedings.mlr.press/v65/woodworth17a/woodworth17a.pdf)
@@ -206,7 +206,7 @@ layout: default
 > TBD 
 
 ### [ICDM 2017](https://dblp.uni-trier.de/db/conf/icdm/icdm2017.html)
-1. /null/
+> *null*
 
 ### [ICML 2017](https://dblp.uni-trier.de/db/conf/icml/icml2017.html)
 1. [Fairness in Reinforcement Learning](http://proceedings.mlr.press/v70/jabbari17a.html)
@@ -281,6 +281,7 @@ layout: default
 
 ### [SDM 2016](https://dblp.uni-trier.de/db/conf/sdm/sdm2016.html)
 1. [A Confidence-Based Approach for Balancing Fairness and Accuracy](http://epubs.siam.org/doi/abs/10.1137/1.9781611974348.17) 
+
 ### [UAI 2016](https://dblp.uni-trier.de/db/conf/uai/uai2016.html)
 > TBD 
 
