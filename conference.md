@@ -174,10 +174,10 @@ layout: default
 1. [Equality of Opportunity in Classification: A Causal Approach](http://papers.nips.cc/paper/7625-equality-of-opportunity-in-classification-a-causal-approach)
 
 ### [SDM 2018](https://dblp.uni-trier.de/db/conf/sdm/sdm2018.html)
-> TBD 
+> *null*
 
 ### [UAI 2018](https://dblp.uni-trier.de/db/conf/uai/uai2018.html)
-> TBD 
+> *null*
 
 ### [WWW 2018](https://dblp.uni-trier.de/db/conf/www/www2018.html)
 1. [Adaptive Sensitive Reweighting to Mitigate Bias in Fairness-aware Classification](https://dl.acm.org/citation.cfm?id=3186133)
@@ -193,7 +193,7 @@ layout: default
 1. [Fairness Constraints: Mechanisms for Fair Classification](http://proceedings.mlr.press/v54/zafar17a/zafar17a.pdf), [supplement](http://proceedings.mlr.press/v54/zafar17a/zafar17a-supp.pdf)
 
 ### [BIGDATA 2017](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2017.html)
-> TBD 
+1. [Discrimination detection by causal effect estimation](https://ieeexplore.ieee.org/document/8258033)
 
 ### [CIKM 2017](https://dblp.uni-trier.de/db/conf/cikm/cikm2017.html)
 1. [FA\*IR: A Fair Top-k Ranking Algorithm](http://doi.acm.org/10.1145/3132847.3132938)
@@ -203,7 +203,7 @@ layout: default
 1. [Learning Non-Discriminatory Predictors](http://proceedings.mlr.press/v65/woodworth17a/woodworth17a.pdf)
 
 ### [FAT\* 2017](https://dblp.uni-trier.de/db/conf/fat/fat2017.html)
-> TBD 
+> *null*
 
 ### [ICDM 2017](https://dblp.uni-trier.de/db/conf/icdm/icdm2017.html)
 > *null*
@@ -232,149 +232,183 @@ layout: default
 1. [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/7220-when-worlds-collide-integrating-different-counterfactual-assumptions-in-fairness)
 
 ### [SDM 2017](https://dblp.uni-trier.de/db/conf/sdm/sdm2017.html)
-> TBD 
+> *null*
 
 ### [UAI 2017](https://dblp.uni-trier.de/db/conf/uai/uai2017.html)
 1. [Fair Optimal Stopping Policy for Matching with Mediator](http://auai.org/uai2017/proceedings/papers/207.pdf), [supplement](http://auai.org/uai2017/proceedings/supplements/207.pdf)
 1. [Importance Sampling for Fair Policy Selection](http://auai.org/uai2017/proceedings/papers/225.pdf), [supplement](http://auai.org/uai2017/proceedings/supplements/225.pdf)
 
 ### [WWW 2017](https://dblp.uni-trier.de/db/conf/www/www2017.html)
-1. [Fairness in Package-to-Group Recommendations](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p371.pdf)
-1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p1171.pdf)
+1. [Fairness in Package-to-Group Recommendations](https://dl.acm.org/citation.cfm?doid=3038912.3052612)
+1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](https://dl.acm.org/citation.cfm?doid=3038912.3052660)
 
 
 ## 2016
 
 ### [AAAI 2016](https://dblp.uni-trier.de/db/conf/aaai/aaai2016.html)
-> TBD 
+> *null*
 
 ### [AISTATS 2016](https://dblp.uni-trier.de/db/conf/aistats/aistats2016.html)
-> TBD 
+> *null* 
 
 ### [BIGDATA 2016](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2016.html)
-> TBD 
+> *null* 
 
 ### [CIKM 2016](https://dblp.uni-trier.de/db/conf/cikm/cikm2016.html)
-> TBD 
+> *null* 
 
 ### [COLT 2016](https://dblp.uni-trier.de/db/conf/colt/colt2016.html)
-> TBD 
+> *null* 
 
 ### [FAT\* 2016](https://dblp.uni-trier.de/db/conf/fat/fat2016.html)
-> TBD 
+> *null* 
 
 ### [ICDM 2016](https://dblp.uni-trier.de/db/conf/icdm/icdm2016.html)
-> TBD 
+1. [Auditing Black-Box Models for Indirect Influence](https://ieeexplore.ieee.org/document/7837824)
 
 ### [ICML 2016](https://dblp.uni-trier.de/db/conf/icml/icml2016.html)
-> TBD 
+> *null* 
 
 ### [IJCAI 2016](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2016.html)
-> TBD 
+1. [Situation Testing-Based Discrimination Discovery: A Causal Inference Approach](https://www.ijcai.org/Abstract/16/386) 
 
 ### [KDD 2016](https://dblp.uni-trier.de/db/conf/kdd/kdd2016.html)
-> null
+> *null*
 
 ### [NIPS 2016](https://dblp.uni-trier.de/db/conf/nips/nips2016.html)
 1. [Fairness in Learning: Classic and Contextual Bandits](https://papers.nips.cc/paper/6355-fairness-in-learning-classic-and-contextual-bandits)
 1. [Equality of Opportunity in Supervised Learning](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning)
+1. [Satisfying Real-world Goals with Dataset Constraints](http://papers.nips.cc/paper/6316-satisfying-real-world-goals-with-dataset-constraints)
 
 ### [SDM 2016](https://dblp.uni-trier.de/db/conf/sdm/sdm2016.html)
 1. [A Confidence-Based Approach for Balancing Fairness and Accuracy](http://epubs.siam.org/doi/abs/10.1137/1.9781611974348.17) 
 
 ### [UAI 2016](https://dblp.uni-trier.de/db/conf/uai/uai2016.html)
-> TBD 
+> *null* 
 
 ### [WWW 2016](https://dblp.uni-trier.de/db/conf/www/www2016.html)
-> TBD 
+> *null*
 
+### Others 2016
+1. [A KDD Process for Discrimination Discovery](https://link.springer.com/chapter/10.1007%2F978-3-319-46131-1_28), ECML/PKDD 2016
 
 ## 2015
 
 ### [AAAI 2015](https://dblp.uni-trier.de/db/conf/aaai/aaai2015.html)
-> TBD 
+> *null* 
 
 ### [AISTATS 2015](https://dblp.uni-trier.de/db/conf/aistats/aistats2015.html)
-> TBD 
+> *null* 
 
 ### [BIGDATA 2015](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2015.html)
-> TBD 
+> *null* 
 
 ### [CIKM 2015](https://dblp.uni-trier.de/db/conf/cikm/cikm2015.html)
-> TBD 
+> *null* 
 
 ### [COLT 2015](https://dblp.uni-trier.de/db/conf/colt/colt2015.html)
-> TBD 
+> *null* 
 
 ### [FAT\* 2015](https://dblp.uni-trier.de/db/conf/fat/fat2015.html)
-> TBD 
+> *null* 
 
 ### [ICDM 2015](https://dblp.uni-trier.de/db/conf/icdm/icdm2015.html)
-> TBD 
+> *null* 
 
 ### [ICML 2015](https://dblp.uni-trier.de/db/conf/icml/icml2015.html)
-> TBD 
+> *null* 
 
 ### [IJCAI 2015](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2015.html)
-> TBD 
+> *null* 
 
 ### [KDD 2015](https://dblp.uni-trier.de/db/conf/kdd/kdd2015.html)
-> TBD 
+1. [Certifying and Removing Disparate Impact](https://dl.acm.org/citation.cfm?doid=2783258.2783311)
 
 ### [NIPS 2015](https://dblp.uni-trier.de/db/conf/nips/nips2015.html)
-> TBD 
+> *null* 
 
 ### [SDM 2015](https://dblp.uni-trier.de/db/conf/sdm/sdm2015.html)
-> TBD 
+> *null* 
 
 ### [UAI 2015](https://dblp.uni-trier.de/db/conf/uai/uai2015.html)
-> TBD 
+> *null* 
 
 ### [WWW 2015](https://dblp.uni-trier.de/db/conf/www/www2015.html)
-> TBD 
+> *null* 
 
 
-## before 2014
+## before 2015
 
-### [AAAI before 2014](https://dblp.uni-trier.de/db/conf/aaai/aaai2014.html)
-> TBD 
+### [AAAI before 2015](https://dblp.uni-trier.de/db/conf/aaai/aaai2014.html)
+> *null* 
 
-### [AISTATS before 2014](https://dblp.uni-trier.de/db/conf/aistats/aistats2014.html)
-> TBD 
+### [AISTATS before 2015](https://dblp.uni-trier.de/db/conf/aistats/aistats2014.html)
+> *null* 
 
-### [BIGDATA before 2014](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2014.html)
-> TBD 
+### [BIGDATA before 2015](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2014.html)
+> *null* 
 
-### [CIKM before 2014](https://dblp.uni-trier.de/db/conf/cikm/cikm2014.html)
-> TBD 
+### [CIKM before 2015](https://dblp.uni-trier.de/db/conf/cikm/cikm2014.html)
+1. [Discrimination aware classification for imbalanced datasets](https://dl.acm.org/citation.cfm?doid=2505515.2507836), CIKM 2013
 
-### [COLT before 2014](https://dblp.uni-trier.de/db/conf/colt/colt2014.html)
-> TBD 
+### [COLT before 2015](https://dblp.uni-trier.de/db/conf/colt/colt2014.html)
+> *null* 
 
-### [FAT\* before 2014](https://dblp.uni-trier.de/db/conf/fat/fat2014.html)
-> TBD 
+### [FAT\* before 2015](https://dblp.uni-trier.de/db/conf/fat/fat2014.html)
+> *null* 
 
-### [ICDM before 2014](https://dblp.uni-trier.de/db/conf/icdm/icdm2014.html)
-> TBD 
+### [ICDM before 2015](https://dblp.uni-trier.de/db/conf/icdm/icdm2014.html)
+1. [Building Classifiers with Independency Constraints](https://ieeexplore.ieee.org/document/5360534), ICDMW 2009
+2. [Discrimination Aware Decision Tree Learning](https://ieeexplore.ieee.org/document/5694053), ICDM 2010
+3. [Handling Conditional Discrimination](https://ieeexplore.ieee.org/document/6137304), ICDM 2011
+4. [Fairness-aware Learning through Regularization Approach](https://ieeexplore.ieee.org/document/6137441), ICDMW 2011
+5. [Discriminatory decision policy aware classification](https://ieeexplore.ieee.org/document/6406466), ICDMW 2012
+1. [Injecting Discrimination and Privacy Awareness Into Pattern Discovery](Injecting Discrimination and Privacy Awareness Into Pattern Discovery), ICDMW 2012
+1. [Decision theory for discrimination-aware classification](https://ieeexplore.ieee.org/document/6413831), ICDM 2012
+1. [Considerations on Fairness-Aware Data Mining](https://ieeexplore.ieee.org/document/6406465), ICDMW 2012
+1. [A Study on the Impact of Data Anonymization on Anti-discrimination](https://ieeexplore.ieee.org/document/6406462), ICDMW 2012
+1. [The Independence of Fairness-Aware Classifiers](https://ieeexplore.ieee.org/document/6754009), ICDMW 2013
 
-### [ICML before 2014](https://dblp.uni-trier.de/db/conf/icml/icml2014.html)
-> TBD 
+### [ICML before 2015](https://dblp.uni-trier.de/db/conf/icml/icml2014.html)
+1. [Learning Fair Representations](http://proceedings.mlr.press/v28/zemel13.html), ICML 2013
 
-### [IJCAI before 2014](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2014.html)
-> TBD 
+### [IJCAI before 2015](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2014.html)
+> *null* 
 
-### [KDD before 2014](https://dblp.uni-trier.de/db/conf/kdd/kdd2014.html)
-> TBD 
+### [KDD before 2015](https://dblp.uni-trier.de/db/conf/kdd/kdd2014.html)
+1. [Discrimination-aware data mining](https://doi.org/10.1145/1401890.1401959), KDD 2008
+2. [k-NN as an implementation of situation testing for discrimination discovery and prevention](https://dl.acm.org/citation.cfm?doid=2020408.2020488), KDD 2011
 
-### [NIPS before 2014](https://dblp.uni-trier.de/db/conf/nips/nips2014.html)
-> TBD 
+### [NIPS before 2015](https://dblp.uni-trier.de/db/conf/nips/nips2014.html)
+> *null* 
 
-### [SDM before 2014](https://dblp.uni-trier.de/db/conf/sdm/sdm2014.html)
-> TBD 
+### [SDM before 2015](https://dblp.uni-trier.de/db/conf/sdm/sdm2014.html)
+1. [Measuring Discrimination in Socially-Sensitive Decision Records](https://doi.org/10.1137/1.9781611972795.50), SDM 2009 
 
-### [UAI before 2014](https://dblp.uni-trier.de/db/conf/uai/uai2014.html)
-> TBD 
+### [UAI before 2015](https://dblp.uni-trier.de/db/conf/uai/uai2014.html)
+> *null* 
 
-### [WWW before 2014](https://dblp.uni-trier.de/db/conf/www/www2014.html)
-> TBD 
+### [WWW before 2015](https://dblp.uni-trier.de/db/conf/www/www2014.html)
+> *null* 
+
+### Others before 2015
+1. [Classifying without discriminating](https://ieeexplore.ieee.org/document/4909197), IC4 2009
+2. [Classification with no discrimination by preferential sampling](https://dtai.cs.kuleuven.be/events/Benelearn2010/submissions/benelearn2010_submission_18.pdf), 19th Machine Learning Conf. Belgium and The Netherlands 2010
+1. [Discrimination prevention in data mining for intrusion and crime detection](https://ieeexplore.ieee.org/document/5949405), CICS 2011
+1. [Fairness-Aware Classifier with Prejudice Remover Regularizer](https://link.springer.com/chapter/10.1007%2F978-3-642-33486-3_3),  ECML/PKDD 2012
+1. [A study of top-k measures for discrimination discovery](https://dl.acm.org/citation.cfm?doid=2245276.2245303), SAC 2012
+1. [Fairness through awareness](https://dl.acm.org/citation.cfm?doid=2090236.2090255), ITCS 2012
+1. [Fair pattern discovery](https://dl.acm.org/citation.cfm?doid=2554850.2555043), SAC 2014
+
+
+
+
+
+
+
+
+
+
+
+
 
