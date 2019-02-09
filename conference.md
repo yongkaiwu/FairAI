@@ -242,6 +242,8 @@ layout: default
 1. [Fairness in Package-to-Group Recommendations](https://dl.acm.org/citation.cfm?doid=3038912.3052612)
 1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](https://dl.acm.org/citation.cfm?doid=3038912.3052660)
 
+### Others 2017
+1. [Inherent Trade-Offs in the Fair Determination of Risk Scores](http://drops.dagstuhl.de/opus/volltexte/2017/8156/), ITCS 2017
 
 ## 2016
 
