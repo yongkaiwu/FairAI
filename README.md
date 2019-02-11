@@ -7,7 +7,7 @@ layout: default
 
 - [Conference Papers](conference.md)
   - [2019](conference.md#2019): [FAT\*](conference.md#fat-2019)
-  - [2018](conference.md#2018): [AAAI](conference.md#aaai-2018), [AISTATS](conference.md#aistats-2018), [CIKM](conference.md#cikm-2018), [COLT](conference.md#colt-2018), [FAT\*](conference.md#fat-2018), [ICDM](conference.md#icdm-2018), [ICML](conference.md#icml-2018), [IJCAI](conference.md#ijcai-2018), [KDD](conference.md#kdd-2018), [NIPS](conference.md#nips-2018), [WWW](conference.md#www-2018)
+  - [2018](conference.md#2018): [AAAI](conference.md#aaai-2018), [AISTATS](conference.md#aistats-2018), [CIKM](conference.md#cikm-2018), [COLT](conference.md#colt-2018), [FAT\*](conference.md#fat-2018), [ICDM](conference.md#icdm-2018), [ICML](conference.md#icml-2018), [IJCAI](conference.md#ijcai-2018), [KDD](conference.md#kdd-2018), [NIPS](conference.md#nips-2018), [WWW](conference.md#www-2018), [Others](conference.md#others-2018)
   - [2017](conference.md#2017): [AAAI](conference.md#aaai-2017), [AISTATS](conference.md#aistats-2017), [BigData](conference.md#bigdata-2017), [CIKM](conference.md#cikm-2017), [COLT](conference.md#colt-2017), [ICDM](conference.md#icdm-2017), [ICML](conference.md#icml-2017), [IJCAI](conference.md#ijcai-2017), [KDD](conference.md#kdd-2017), [NIPS](conference.md#nips-2017), [UAI](conference.md#uai-2017), [WWW](conference.md#www-2017), [Others](conference.md#others-2017)
   - [2016](conference.md#2016): [ICDM](conference.md#icdm-2016), [IJCAI](conference.md#ijcai-2016), [NIPS](conference.md#nips-2016), [SDM](conference.md#sdm-2016), [Others](conference.md#others-2016)
   - [2015](conference.md#2015): [KDD](conference.md#kdd-2015)

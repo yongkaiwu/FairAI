@@ -183,6 +183,8 @@ layout: default
 1. [Adaptive Sensitive Reweighting to Mitigate Bias in Fairness-aware Classification](https://dl.acm.org/citation.cfm?id=3186133)
 1. [Human Perceptions of Fairness in Algorithmic Decision Making: A Case Study of Criminal Risk Prediction](https://dl.acm.org/citation.cfm?id=3186138)
 
+### Others 2018
+1. [Biases in the Facebook News Feed: a Case Study on the Italian Elections](https://ieeexplore.ieee.org/document/8508659), ASONAM 2018
 
 ## 2017
 
