@@ -22,38 +22,20 @@ layout: default
   - [Before 2015]((workshop.md#before-2015)): [FAT/ML 2014](workshop.md#fatml-2014)
 
 - [Journal Papers](journal.md)
-  - [2019]():
-  - [2018]():
-  - [2017]():
-  - [2016]():
-  - [2015]():
-  - [Before 2015](): 
 
 - [Resources](other.md)
   - [Tutorials](other.md#courses)
   - [Courses](other.md#tutorials)
   - [Workshops](other.md#workshops)
 
-- [Works from SAIL](sail.md)
+## Supplement
+
+- [Works from our group (SAIL)](sail.md)
   - [Papers from SAIL](sail.md##papers-from-sail)
   - [Tutorials by SAIL](sail.md##tutorials-by-sail)
 
 - Data Sources
   - Conference venues are found at [DBLP](https://dblp.uni-trier.de):
-    - [AAAI](https://dblp.uni-trier.de/db/conf/aaai/)
-    - [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/)
-    - [BigData](https://dblp.uni-trier.de/db/conf/bigdataconf/)
-    - [CIKM](https://dblp.uni-trier.de/db/conf/cikm/)
-    - [COLT](https://dblp.uni-trier.de/db/conf/colt/)
-    - [FAT\*](https://dblp.uni-trier.de/db/conf/fat/)
-    - [ICDM](https://dblp.uni-trier.de/db/conf/icdm/)
-    - [ICML](https://dblp.uni-trier.de/db/conf/icml/)
-    - [IJCAI](https://dblp.uni-trier.de/db/conf/ijcai/)
-    - [KDD](https://dblp.uni-trier.de/db/conf/kdd/)
-    - [NIPS](https://dblp.uni-trier.de/db/conf/nips/)
-    - [SDM](https://dblp.uni-trier.de/db/conf/sdm/)
-    - [UAI](https://dblp.uni-trier.de/db/conf/uai/)
-    - [WWW](https://dblp.uni-trier.de/db/conf/www/)
+    > [AAAI](https://dblp.uni-trier.de/db/conf/aaai/), [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/), [BigData](https://dblp.uni-trier.de/db/conf/bigdataconf/), [CIKM](https://dblp.uni-trier.de/db/conf/cikm/), [COLT](https://dblp.uni-trier.de/db/conf/colt/), [FAT\*](https://dblp.uni-trier.de/db/conf/fat/), [ICDM](https://dblp.uni-trier.de/db/conf/icdm/), [ICML](https://dblp.uni-trier.de/db/conf/icml/), [IJCAI](https://dblp.uni-trier.de/db/conf/ijcai/), [KDD](https://dblp.uni-trier.de/db/conf/kdd/), [NIPS](https://dblp.uni-trier.de/db/conf/nips/), [SDM](https://dblp.uni-trier.de/db/conf/sdm/), [UAI](https://dblp.uni-trier.de/db/conf/uai/), [WWW](https://dblp.uni-trier.de/db/conf/www/)
   - Workshops are found at their websites: 
-    - [AIES](http://www.aies-conference.com)
-    - [FAT/ML](https://www.fatml.org)
+    > [AIES](http://www.aies-conference.com), [FAT/ML](https://www.fatml.org), [FATES](http://fates19.isti.cnr.it/)
