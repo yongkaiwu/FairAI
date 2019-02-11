@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media screen and (min-width: 80em) {
+    .project-name {
+        font-size: 4.75rem
+    }
+}
+
+@media screen and (min-width: 64em) and (max-width: 80em) {
+    .project-name {
+        font-size: 3.25rem
+    }
+}
+
+@media screen and (min-width: 80em) {
+    .main-content {
+        max-width: 80rem;
+        padding: 2rem 6rem;
+        margin: 0 auto;
+        font-size: 1.1rem
+    }
+}
+
+@media screen and (min-width: 64em) and (max-width: 80em) {
+    .main-content {
+        max-width: 64rem;
+        padding: 2rem 6rem;
+        margin: 0 auto;
+        font-size: 1.1rem
+    }
+}
