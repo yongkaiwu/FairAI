@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Papers from [SAIL](https://sail.uark.edu/)
 
 1. Yongkai Wu, Lu Zhang, and Xintao Wu, *Fairness-aware Classification: Criterion, Convexity, and Bounds*, in WWW 2019, [link](), [pdf]()
