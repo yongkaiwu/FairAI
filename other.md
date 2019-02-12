@@ -20,3 +20,10 @@ layout: default
 1. [Data & Algorithm Bias (DAB 2017)](http://dab.udd.cl/2017/), 2017
 1. [FAT/ML](https://www.fatml.org/), since 2014
 1. [FATES](http://fates19.isti.cnr.it/), since 2019
+
+## Datasets
+1. [Adult](https://archive.ics.uci.edu/ml/datasets/adult)
+1. [Bank marketing](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+1. [Dutch Census](https://sites.google.com/site/conditionaldiscrimination/)
+1. [German Credit](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+1. [Publica Compas](https://github.com/propublica/compas-analysis)

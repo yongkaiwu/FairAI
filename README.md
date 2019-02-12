@@ -32,6 +32,7 @@ layout: default
   - [Tutorials](other.md#courses)
   - [Courses](other.md#tutorials)
   - [Workshops](other.md#workshops)
+  - [Dataset](other.md#datasets)
 
 ## Supplement
 
