@@ -3,9 +3,11 @@ permalink: /
 layout: default
 ---
 
-## Homepage
+# Homepage
 
-- [Conference Papers](conference.md)
+## Conference Papers: 
+- [A full list](conference.md) 
+- indexed by year and venue:
   - [2019](conference.md#2019): [FAT\*](conference.md#fat-2019)
   - [2018](conference.md#2018): [AAAI](conference.md#aaai-2018), [AISTATS](conference.md#aistats-2018), [CIKM](conference.md#cikm-2018), [COLT](conference.md#colt-2018), [FAT\*](conference.md#fat-2018), [ICDM](conference.md#icdm-2018), [ICML](conference.md#icml-2018), [IJCAI](conference.md#ijcai-2018), [KDD](conference.md#kdd-2018), [NIPS](conference.md#nips-2018), [WWW](conference.md#www-2018), [Others](conference.md#others-2018)
   - [2017](conference.md#2017): [AAAI](conference.md#aaai-2017), [AISTATS](conference.md#aistats-2017), [BigData](conference.md#bigdata-2017), [CIKM](conference.md#cikm-2017), [COLT](conference.md#colt-2017), [ICDM](conference.md#icdm-2017), [ICML](conference.md#icml-2017), [IJCAI](conference.md#ijcai-2017), [KDD](conference.md#kdd-2017), [NIPS](conference.md#nips-2017), [UAI](conference.md#uai-2017), [WWW](conference.md#www-2017), [Others](conference.md#others-2017)
@@ -13,7 +15,9 @@ layout: default
   - [2015](conference.md#2015): [KDD](conference.md#kdd-2015)
   - [before 2015](conference.md#before-2015): [CIKM](conference.md#cikm-before-2015), [ICDM](conference.md#icdm-before-2015), [ICML](conference.md#icml-before-2015), [KDD](conference.md#kdd-before-2015), [SDM](conference.md#sdm-before-2015), [Others](conference.md#others-before-2015)
 
-- [Workshop Papers](workshop.md)
+## Workshop Papers
+- [A full list](workshop.md)
+- indexed by year and venue:
   - [2019](workshop.md#2019): [AIES](workshop.md#aies-2019), [FAT/ML](workshop.md#fatml-2019)
   - [2018](workshop.md#2018): [AIES](workshop.md#aies-2018), [FAT/ML](workshop.md#fatml-2018)
   - [2017](workshop.md#2017): [FAT/ML](workshop.md#fatml-2017)
@@ -21,9 +25,10 @@ layout: default
   - [2015](workshop.md#2015): [FAT/ML](workshop.md#fatml-2015)
   - [Before 2015]((workshop.md#before-2015)): [FAT/ML 2014](workshop.md#fatml-2014)
 
-- [Journal Papers](journal.md)
+## Journal Papers
+- [A full list](journal.md)
 
-- [Resources](other.md)
+## Other Resources
   - [Tutorials](other.md#courses)
   - [Courses](other.md#tutorials)
   - [Workshops](other.md#workshops)
