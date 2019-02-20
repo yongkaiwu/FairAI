@@ -172,6 +172,7 @@ layout: default
 1. [On Preserving Non Discrimination When Combining Expert Advice](http://papers.nips.cc/paper/8058-on-preserving-non-discrimination-when-combining-expert-advice)
 1. [The Price of Fair PCA: One Extra Dimension](http://papers.nips.cc/paper/8294-the-price-of-fair-pca-one-extra-dimension)
 1. [Equality of Opportunity in Classification: A Causal Approach](http://papers.nips.cc/paper/7625-equality-of-opportunity-in-classification-a-causal-approach)
+1. [Invariant Representations without Adversarial Training](https://papers.nips.cc/paper/8122-invariant-representations-without-adversarial-training)
 
 ### [SDM 2018](https://dblp.uni-trier.de/db/conf/sdm/sdm2018.html)
 > *null*
@@ -224,6 +225,7 @@ layout: default
 ### [NIPS 2017](https://dblp.uni-trier.de/db/conf/nips/nips2017.html)
 1. [Satisfying Real-world Goals with Dataset Constraints](http://papers.nips.cc/paper/6316-satisfying-real-world-goals-with-dataset-constraints)
 1. [From Parity to Preference-based Notions of Fairness in Classification](https://papers.nips.cc/paper/6627-from-parity-to-preference-based-notions-of-fairness-in-classification)
+1. [Controllable Invariance through Adversarial Feature Learning](https://papers.nips.cc/paper/6661-controllable-invariance-through-adversarial-feature-learning)
 1. [Avoiding Discrimination through Causal Reasoning](https://papers.nips.cc/paper/6668-avoiding-discrimination-through-causal-reasoning)
 1. [Recycling Privileged Learning and Distribution Matching for Fairness](https://papers.nips.cc/paper/6670-recycling-privileged-learning-and-distribution-matching-for-fairness)
 1. [Beyond Parity: Fairness Objectives for Collaborative Filtering](http://papers.nips.cc/paper/6885-beyond-parity-fairness-objectives-for-collaborative-filtering)
