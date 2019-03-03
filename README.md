@@ -18,7 +18,7 @@ layout: default
 ## Workshop Papers
 - [A full list](workshop.md)
 - indexed by year and venue:
-  - [2019](workshop.md#2019): [AIES](workshop.md#aies-2019), [FAT/ML](workshop.md#fatml-2019)
+  - [2019](workshop.md#2019): [AIES](workshop.md#aies-2019), [FAT/ML](workshop.md#fatml-2019), [FATES](workshop.md#fates-2019)
   - [2018](workshop.md#2018): [AIES](workshop.md#aies-2018), [FAT/ML](workshop.md#fatml-2018)
   - [2017](workshop.md#2017): [FAT/ML](workshop.md#fatml-2017)
   - [2016](workshop.md#2016): [FAT/ML](workshop.md#fatml-2016)

@@ -80,6 +80,28 @@ layout: default
 1. [The Seductive Allure of Artificial Intelligence-Powered Neurotechnology](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_252.pdf)
 1. [What are the biases in my word embedding?](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_253.pdf)
 
+#### [FATES 2019](http://fates19.isti.cnr.it/)
+
+1. Achieving Differential Privacy and Fairness in Logistic Regression
+2. Unsupervised Topic Extraction from Privacy Policies
+3. Collaborative Explanation of Deep Models with Limited Interaction for Trade Secret and Privacy Preservation
+4. Algorithms for Fair Team Formation in Online Labour Marketplaces
+5. Fairness in the social influence maximization problem
+6. Hegemony in Social Media and the effect of recommendations
+7. Managing Bias in AI
+8. Privacy-aware Linked Widgets
+9. Privacy and Transparency within the 4IR: Two faces of the same coin
+10. Nuanced Metrics for Measuring Unintended Bias with Real Data for Text Classification
+11. On Preserving Sensitive Information of Multiple Aspect Trajectories In-House
+12. Quantifying the Impact of User Attention on Fair Group Representation in Ranked Lists
+13. Trust and trustworthiness in social recommender systems
+14. Empirical analysis of bias in voice based personal assistants
+15. Black Hat Trolling, White Hat Trolling, and Hacking the Attention Landscape
+16. Uncovering Social Media Bots: a Transparency-focused Approach
+17. Can Location-Based Searches Create Exposure Bias? (discussion paper)
+18. What’s in a Name? The Need for Scalable External Audit Infrastructure (discussion paper)
+19. In Defense of Synthetic Data (discussion paper)
+
 
 ## 2018
 
