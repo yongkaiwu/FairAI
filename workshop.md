@@ -254,7 +254,7 @@ layout: default
 3. Towards Diagnosing Accuracy Loss in Discrimination-Aware Classification: An Application to Predictive Policing
 4. [On the Relation between Accuracy and Fairness in Binary Classification](https://arxiv.org/abs/1505.05723)
 
-## Before 2015
+## 2014
 
 ### [FAT/ML 2014](https://www.fatml.org/schedule/2014)
 
