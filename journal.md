@@ -42,15 +42,23 @@ layout: default
 3. [Combating discrimination using Bayesian networks](http://link.springer.com/10.1007/s10506-014-9156-4), in *Artificial Intelligence and Law*, 2014
 4. [Better decision support through exploratory discrimination-aware data mining: foundations and empirical evidence](http://link.springer.com/10.1007/s10506-013-9152-0), in *Artificial Intelligence and Law*, 2014
 5. [Using t-closeness anonymity to control for non-discrimination](http://www.tdp.cat/issues11/abs.a196a14.php), in *Transactions on Data Privacy*, 2014
+6. [Introduction to special issue on computational methods for enforcing privacy and fairness in the knowledge society](https://link.springer.com/article/10.1007%2Fs10506-014-9153-7), in *Artificial Intelligence and Law*, 2014
+7. [Responsibly Innovating Data Mining and Profiling Tools: A New Approach to Discrimination Sensitive and Privacy Sensitive Attributes](https://link.springer.com/chapter/10.1007%2F978-94-017-8956-1_19), in *Responsible Innovation 1*, in 2014
 
 ## 2013
 
 1. [A Methodology for Direct and Indirect Discrimination Prevention in Data Mining](http://ieeexplore.ieee.org/document/6175897/), in *IEEE Transactions on Knowledge and Data Engineering*, 2013
 2. [Quantifying explainable discrimination and removing illegal discrimination in automated decision making](http://link.springer.com/10.1007/s10115-012-0584-8), in *Knowledge and Information Systems*, 2013
+3. [Discrimination discovery in scientific project evaluation: A case study](https://www.sciencedirect.com/science/article/pii/S0957417413003023?via%3Dihub), in *Expert Systems with Applications*, 2013
+4. [Discrimination and Privacy in the Information Society](https://link.springer.com/book/10.1007%2F978-3-642-30487-3#editorsandaffiliations), 2013
 
 ## 2012
 
 1. [Data preprocessing techniques for classification without discrimination](http://link.springer.com/10.1007/s10115-011-0463-8), in *Knowledge and Information Systems*, 2012
+
+## 2011
+
+1. [Implementing Anti-discrimination Policies in Statistical Profiling Models](https://www.aeaweb.org/articles?id=10.1257/pol.3.3.206), in *American Economic Journal: Economic Policy*, 2011
 
 ## 2010
 

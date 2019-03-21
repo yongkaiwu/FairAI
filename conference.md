@@ -418,6 +418,7 @@ layout: default
 ## 2014
 
 1. [Fair pattern discovery](https://dl.acm.org/citation.cfm?doid=2554850.2555043), SAC 2014
+2. [Anti-discrimination Analysis Using Privacy Attack Strategies](https://link.springer.com/chapter/10.1007%2F978-3-662-44851-9_44), ECML/PKDD 2014
 
 ## 2013
 
@@ -426,7 +427,7 @@ layout: default
 
 ## 2012
 
-1. [Fairness-Aware Classifier with Prejudice Remover Regularizer](https://link.springer.com/chapter/10.1007%2F978-3-642-33486-3_3),  ECML/PKDD 2012
+1. [Fairness-Aware Classifier with Prejudice Remover Regularizer](https://link.springer.com/chapter/10.1007%2F978-3-642-33486-3_3), ECML/PKDD 2012
 2. [Fairness through awareness](https://dl.acm.org/citation.cfm?doid=2090236.2090255), ITCS 2012
 3. [Decision theory for discrimination-aware classification](https://ieeexplore.ieee.org/document/6413831), ICDM 2012
 4. [A study of top-k measures for discrimination discovery](https://dl.acm.org/citation.cfm?doid=2245276.2245303), SAC 2012
