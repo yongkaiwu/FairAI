@@ -25,7 +25,7 @@ layout: default
   - [2017](workshop.md#2017): [FAT/ML](workshop.md#fatml-2017)
   - [2016](workshop.md#2016): [FAT/ML](workshop.md#fatml-2016)
   - [2015](workshop.md#2015): [FAT/ML](workshop.md#fatml-2015)
-  - [Before 2015]((workshop.md#2014)): [FAT/ML 2014](workshop.md#fatml-2014)
+  - [Before 2015](workshop.md#2014): [FAT/ML 2014](workshop.md#fatml-2014)
 
 ## Journal Papers
 
