@@ -30,7 +30,7 @@ layout: default
 18. [How Technological Advances Can Reveal Rights](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_129.pdf)
 19. [Towards a Just Theory of Measurement: A Principled Social Measurement Assurance Program](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_130.pdf)
 20. [Using deceased-donor kidneys to initiate chains of living donor kidney paired donations: algorithm and experimentation](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_131.pdf)
-21. [Regulating Lethal and Harmful Autonomy: Drafting a Protocol VI of the  Convention on Certain Conventional Weapons ](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_142.pdf)
+21. [Regulating Lethal and Harmful Autonomy: Drafting a Protocol VI of the  Convention on Certain Conventional Weapons](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_142.pdf)
 22. [Understanding Black Box Model Behavior through Subspace Explanations](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_143.pdf)
 23. [Theories of parenting and their application to artificial intelligence](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_147.pdf)
 24. [Learning Existing Social Conventions via Observationally Augmented Self-Play](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_158.pdf)
@@ -258,4 +258,35 @@ layout: default
 
 ### [FAT/ML 2014](https://www.fatml.org/schedule/2014)
 
-1. null
+> *null*
+
+## 2013
+
+### [Privacy Aspects of Data Mining (PADM 2013)](http://www.zurich.ibm.com/padm2011/index.html) with ICDM 2013
+
+1. [The Independence of Fairness-Aware Classifiers](https://ieeexplore.ieee.org/document/6754009)
+2. [Data Anonymity Meets Non-discrimination](https://ieeexplore.ieee.org/document/6754013)
+
+## 2012
+
+### [Discrimination and Privacy-Aware Data Mining (DPADM 2012)](https://sites.google.com/site/dpadm2012/) with ICDM 2012
+
+1. [Exploring Discrimination: A User-centric Evaluation of Discrimination-Aware Data Mining](https://ieeexplore.ieee.org/document/6406461)
+2. [A Study on the Impact of Data Anonymization on Anti-discrimination](https://ieeexplore.ieee.org/document/6406462)
+3. [Injecting Discrimination and Privacy Awareness Into Pattern Discovery](https://ieeexplore.ieee.org/document/6406463)
+4. [Classifying Socially Sensitive Data Without Discrimination: An Analysis of a Crime Suspect Dataset](https://ieeexplore.ieee.org/document/6406464)
+5. [Considerations on Fairness-Aware Data Mining](https://ieeexplore.ieee.org/document/6406465)
+6. [Discriminatory Decision Policy Aware Classification](https://ieeexplore.ieee.org/document/6406466)
+7. [Discovering Gender Discrimination in Project Funding](https://ieeexplore.ieee.org/document/6406467)
+
+## 2011
+
+### [Privacy Aspects of Data Mining (PADM 2011)](http://www.zurich.ibm.com/padm2011/index.html) with ICDM 2011
+
+1. [Fairness-aware Learning through Regularization Approach](https://ieeexplore.ieee.org/document/6137441)
+
+## 2009
+
+### [Domain Driven Data Mining (D3M 2009)](https://dblp.org/db/conf/icdm/icdmw2009) with ICDM 2009
+
+1. [Building Classifiers with Independency Constraints](https://ieeexplore.ieee.org/document/5360534)

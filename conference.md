@@ -421,27 +421,21 @@ layout: default
 
 ## 2013
 
-1. [The Independence of Fairness-Aware Classifiers](https://ieeexplore.ieee.org/document/6754009), ICDMW 2013
-2. [Learning Fair Representations](http://proceedings.mlr.press/v28/zemel13.html), ICML 2013
-3. [Discrimination aware classification for imbalanced datasets](https://dl.acm.org/citation.cfm?doid=2505515.2507836), CIKM 2013
+1. [Learning Fair Representations](http://proceedings.mlr.press/v28/zemel13.html), ICML 2013
+2. [Discrimination aware classification for imbalanced datasets](https://dl.acm.org/citation.cfm?doid=2505515.2507836), CIKM 2013
 
 ## 2012
 
-1. [Injecting Discrimination and Privacy Awareness Into Pattern Discovery](Injecting Discrimination and Privacy Awareness Into Pattern Discovery), ICDMW 2012
-2. [Fairness-Aware Classifier with Prejudice Remover Regularizer](https://link.springer.com/chapter/10.1007%2F978-3-642-33486-3_3),  ECML/PKDD 2012
-3. [Fairness through awareness](https://dl.acm.org/citation.cfm?doid=2090236.2090255), ITCS 2012
-4. [Discriminatory decision policy aware classification](https://ieeexplore.ieee.org/document/6406466), ICDMW 2012
-5. [Decision theory for discrimination-aware classification](https://ieeexplore.ieee.org/document/6413831), ICDM 2012
-6. [Considerations on Fairness-Aware Data Mining](https://ieeexplore.ieee.org/document/6406465), ICDMW 2012
-7. [A Study on the Impact of Data Anonymization on Anti-discrimination](https://ieeexplore.ieee.org/document/6406462), ICDMW 2012
-8. [A study of top-k measures for discrimination discovery](https://dl.acm.org/citation.cfm?doid=2245276.2245303), SAC 2012
+1. [Fairness-Aware Classifier with Prejudice Remover Regularizer](https://link.springer.com/chapter/10.1007%2F978-3-642-33486-3_3),  ECML/PKDD 2012
+2. [Fairness through awareness](https://dl.acm.org/citation.cfm?doid=2090236.2090255), ITCS 2012
+3. [Decision theory for discrimination-aware classification](https://ieeexplore.ieee.org/document/6413831), ICDM 2012
+4. [A study of top-k measures for discrimination discovery](https://dl.acm.org/citation.cfm?doid=2245276.2245303), SAC 2012
 
 ## 2011
 
 1. [k-NN as an implementation of situation testing for discrimination discovery and prevention](https://dl.acm.org/citation.cfm?doid=2020408.2020488), KDD 2011
 2. [Handling Conditional Discrimination](https://ieeexplore.ieee.org/document/6137304), ICDM 2011
-3. [Fairness-aware Learning through Regularization Approach](https://ieeexplore.ieee.org/document/6137441), ICDMW 2011
-4. [Discrimination prevention in data mining for intrusion and crime detection](https://ieeexplore.ieee.org/document/5949405), CICS 2011
+3. [Discrimination prevention in data mining for intrusion and crime detection](https://ieeexplore.ieee.org/document/5949405), CICS 2011
 
 ## 2010
 
@@ -452,7 +446,6 @@ layout: default
 
 1. [Measuring Discrimination in Socially-Sensitive Decision Records](https://doi.org/10.1137/1.9781611972795.50), SDM 2009
 2. [Classifying without discriminating](https://ieeexplore.ieee.org/document/4909197), IC4 2009
-3. [Building Classifiers with Independency Constraints](https://ieeexplore.ieee.org/document/5360534), ICDMW 2009
 
 ## 2008
 
