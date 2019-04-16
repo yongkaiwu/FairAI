@@ -220,7 +220,7 @@ layout: default
 
 ### [AAAI 2017](https://dblp.uni-trier.de/db/conf/aaai/aaai2017.html)
 
-1. /null/
+> *null*
 
 ### [AISTATS 2017](https://dblp.uni-trier.de/db/conf/aistats/aistats2017.html)
 

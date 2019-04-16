@@ -101,9 +101,9 @@ layout: default
 14. Empirical analysis of bias in voice based personal assistants
 15. Black Hat Trolling, White Hat Trolling, and Hacking the Attention Landscape
 16. Uncovering Social Media Bots: a Transparency-focused Approach
-17. Can Location-Based Searches Create Exposure Bias? (discussion paper)
-18. What’s in a Name? The Need for Scalable External Audit Infrastructure (discussion paper)
-19. In Defense of Synthetic Data (discussion paper)
+17. Can Location-Based Searches Create Exposure Bias?, *discussion paper*
+18. What’s in a Name? The Need for Scalable External Audit Infrastructure, *discussion paper*
+19. In Defense of Synthetic Data, *discussion paper*
 
 ## 2018
 
