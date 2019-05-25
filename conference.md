@@ -12,7 +12,7 @@ layout: default
 
 ### [AISTATS 2019](https://dblp.uni-trier.de/db/conf/aistats/aistats2019.html)
 
-> TBA
+1. [Learning Controllable Fair Representations](http://proceedings.mlr.press/v89/song19a)
 
 ### [BIGDATA 2019](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2019.html)
 
