@@ -8,7 +8,13 @@ layout: default
 
 ### [AAAI 2019](https://dblp.uni-trier.de/db/conf/aaai/aaai2019.html)
 
-> TBA
+1. [Learning Optimal and Fair Decision Trees for Non-Discriminative Decision-Making](https://aaai.org/ojs/index.php/AAAI/article/view/3943)
+2. [Learning to Address Health Inequality in the United States with a Bayesian Decision Network](https://aaai.org/ojs/index.php/AAAI/article/view/3849)
+3. [Convex Formulations for Fair Principal Component Analysis](https://aaai.org/ojs/index.php/AAAI/article/view/3843)
+4. [Bayesian Fairness](https://aaai.org/ojs/index.php/AAAI/article/view/3824)
+5. [One-Network Adversarial Fairness](https://aaai.org/ojs/index.php/AAAI/article/view/4085)
+6. [Eliminating Latent Discrimination: Train Then Mask](https://aaai.org/ojs/index.php/AAAI/article/view/4251)
+7. [Path-Specific Counterfactual Fairness](https://aaai.org/ojs/index.php/AAAI/article/view/4777)
 
 ### [AISTATS 2019](https://dblp.uni-trier.de/db/conf/aistats/aistats2019.html)
 
@@ -24,7 +30,7 @@ layout: default
 
 ### [COLT 2019](https://dblp.uni-trier.de/db/conf/colt/colt2019.html)
 
-> TBA
+> *null*
 
 ### [FAT\* 2019](https://dblp.uni-trier.de/db/conf/fat/fat2019.html)
 
@@ -76,7 +82,24 @@ layout: default
 
 ### [ICML 2019](https://dblp.uni-trier.de/db/conf/icml/icml2019.html)
 
-> TBA
+1. [Fair Regression: Quantitative Definitions and Reduction-Based Algorithms](http://proceedings.mlr.press/v97/agarwal19d.html)
+2. [Fair Regression: Quantitative Definitions and Reduction-Based Algorithms](http://proceedings.mlr.press/v97/agarwal19d.html)
+3. [Scalable Fair Clustering](http://proceedings.mlr.press/v97/backurs19a.html)
+4. [Compositional Fairness Constraints for Graph Embeddings](http://proceedings.mlr.press/v97/bose19a.html)
+5. [Understanding the Origins of Bias in Word Embeddings](http://proceedings.mlr.press/v97/brunet19a.html)
+6. [Proportionally Fair Clustering](http://proceedings.mlr.press/v97/chen19d.html)
+7. [Stable and Fair Classification](http://proceedings.mlr.press/v97/huang19e.html)
+8. [Differentially Private Fair Learning](http://proceedings.mlr.press/v97/jagielski19a.html)
+9. [Fair k-Center Clustering for Data Summarization](http://proceedings.mlr.press/v97/kleindessner19a.html)
+10. [Guarantees for Spectral Clustering with Fairness Constraints](http://proceedings.mlr.press/v97/kleindessner19b.html)
+11. [Making Decisions that Reduce Discriminatory Impacts](http://proceedings.mlr.press/v97/kusner19a.html)
+12. [The Implicit Fairness Criterion of Unconstrained Learning](http://proceedings.mlr.press/v97/liu19f.html)
+13. [Fairness-Aware Learning for Continuous Attributes and Treatments](http://proceedings.mlr.press/v97/mary19a.html)
+14. [Toward Controlling Discrimination in Online Ad Auctions](http://proceedings.mlr.press/v97/mehrotra19a.html)
+15. [Learning Optimal Fair Policies](http://proceedings.mlr.press/v97/nabi19a.html)
+16. [Fairness without Harm: Decoupled Classifiers with Preference Guarantees](http://proceedings.mlr.press/v97/ustun19a.html)
+17. [Repairing without Retraining: Avoiding Disparate Impact with Counterfactual Distributions](http://proceedings.mlr.press/v97/wang19l.html)
+18. [Fairness risk measures](http://proceedings.mlr.press/v97/williamson19a.html)
 
 ### [IJCAI 2019](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2019.html)
 
