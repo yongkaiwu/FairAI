@@ -4,16 +4,21 @@ layout: default
 
 # Papers from [SAIL](https://sail.uark.edu/)
 
-1. Yongkai Wu, Lu Zhang, and Xintao Wu, *Fairness-aware Classification: Criterion, Convexity, and Bounds*, in WWW 2019, [link](), [pdf]()
-2. Lu Zhang, Yongkai Wu, and Xintao Wu, *Causal Modeling-Based Discrimination Discovery and Removal: Criteria, Bounds, and Algorithms*, in TKDE, [link](https://ieeexplore.ieee.org/abstract/document/8477109), [pdf]()
-3. Lu Zhang, Yongkai Wu, and Xintao Wu, *Achieving Non-Discrimination in Prediction*, in IJCAI 2018, [link](http://www.ijcai.org/proceedings/2018/430), [pdf](/pub/2018_IJCAI2018/IJCAI2018_paper_Tg8D.pdf)
-4. Yongkai Wu, Lu Zhang, and Xintao Wu, *On Discrimination Discovery and Removal in Ranked Data using Causal Graph*, in KDD 2018, [link](https://dl.acm.org/citation.cfm?id=3220087), [pdf](/pub/2018_KDD2018/KDD2018_paper_6kXf.pdf)
-5. Lu Zhang and Xintao Wu, *Anti-discrimination learning: a causal modeling-based framework*, in JDSA, [link](https://link.springer.com/article/10.1007/s41060-017-0058-x), [pdf]()
-6. Lu Zhang, Yongkai Wu, and Xintao Wu, *Achieving Non-Discrimination in Data Release*, in KDD 2017, [link](https://dl.acm.org/citation.cfm?id=3098167 ), [pdf](pub/2017_KDD2017/KDD2017_paper_L5gv.pdf)
-7. Lu Zhang, Yongkai Wu, and Xintao Wu, *A Causal Framework for Discovering and Removing Direct an Indirect Discrimination*, in IJCAI 2017, [link](https://dl.acm.org/citation.cfm?id=3172438), [pdf](/pub/2017_IJCAI2017/IJCAI2017_paper_EGY4.pdf)
-8. Lu Zhang, Yongkai Wu, and Xintao Wu, *On Discrimination Discovery Using Causal Networks*, in SBP-BRiMS 2016, [link](https://link.springer.com/chapter/10.1007/978-3-319-39931-7_9), [pdf](/pub/2016_SBP-BRiMS/SBP2016_paper_u7G4.pdf)
-9. Lu Zhang, Yongkai Wu, and Xintao Wu, *Situation Testing-Based Discrimination Discovery: A Causa Inference Approach*, in IJCAI 2016, [link](https://dl.acm.org/citation.cfm?id=3061001), [pdf](/pub/2016_IJCAI2016/IJCAI2016_paper_Tf5D.pdf)
-10. Yongkai Wu and Xintao Wu, *Using Loglinear Model for Discrimination Discovery and Prevention*, in DSAA 2016, [link](http://ieeexplore.ieee.org/abstract/document/7796896/), [pdf](/pub/2016_DSAA2016/DSAA2016_paper_iuG6.pdf)
+1. Yongkai Wu and Xintao Wu, *Using Loglinear Model for Discrimination Discovery and Prevention*, in DSAA 2016, [link](http://ieeexplore.ieee.org/abstract/document/7796896/)
+2. Lu Zhang, Yongkai Wu, and Xintao Wu, *Situation Testing-Based Discrimination Discovery: A Causa Inference Approach*, in IJCAI 2016, [link](https://dl.acm.org/citation.cfm?id=3061001)
+3. Lu Zhang, Yongkai Wu, and Xintao Wu, *On Discrimination Discovery Using Causal Networks*, in SBP-BRiMS 2016, [link](https://link.springer.com/chapter/10.1007/978-3-319-39931-7_9)
+4. Lu Zhang, Yongkai Wu, and Xintao Wu, *A Causal Framework for Discovering and Removing Direct an Indirect Discrimination*, in IJCAI 2017, [link](https://dl.acm.org/citation.cfm?id=3172438)
+5. Lu Zhang, Yongkai Wu, and Xintao Wu, *Achieving Non-Discrimination in Data Release*, in KDD 2017, [link](https://dl.acm.org/citation.cfm?id=3098167)
+6. Lu Zhang and Xintao Wu, *Anti-discrimination learning: a causal modeling-based framework*, in JDSA, [link](https://link.springer.com/article/10.1007/s41060-017-0058-x)
+7. Yongkai Wu, Lu Zhang, and Xintao Wu, *On Discrimination Discovery and Removal in Ranked Data using Causal Graph*, in KDD 2018, [link](https://dl.acm.org/citation.cfm?id=3220087)
+8. Lu Zhang, Yongkai Wu, and Xintao Wu, *Achieving Non-Discrimination in Prediction*, in IJCAI 2018, [link](http://www.ijcai.org/proceedings/2018/430)
+9. Lu Zhang, Yongkai Wu, and Xintao Wu, *Causal Modeling-Based Discrimination Discovery and Removal: Criteria, Bounds, and Algorithms*, in TKDE, [link](https://ieeexplore.ieee.org/abstract/document/8477109)
+10. Depeng Xu, Shuhan Yuan, Lu Zhang, and Xintao Wu, *FairGAN: Fairness-aware Generative Adversarial Networks*, in IEEE Big Data 2018, [link](https://ieeexplore.ieee.org/document/8622525)
+11. Yongkai Wu, Lu Zhang, and Xintao Wu, *On Convexity and Bounds of Fairness-aware Classification*, in WWW 2019, [link](https://dl.acm.org/citation.cfm?id=3313723)
+12. Depeng Xu, Shuhan Yuan and Xintao Wu, *Achieving Differential Privacy and Fairness in Logistic Regression*, in WWW 2019 workshop on FATES, [link](https://dl.acm.org/citation.cfm?id=3317584)
+13. Depeng Xu, Shuhan Yuan, Lu Zhang, and Xintao Wu, *FairGAN+: Achieving Fair Data Generation and Fair Classification through Generative Adversarial Networks*, in KDD 2019 workshop on XAI
+14. Depeng Xu, Yongkai Wu, Shuhan Yuan, Lu Zhang, and Xintao Wu, *Achieving Causal Fairness through Generative Adversarial Networks*, in IJCAI 2019, [link](https://www.ijcai.org/proceedings/2019/201)
+15. Yongkai Wu, Lu Zhang, and Xintao Wu, *Counterfactual Fairness: Unidentification, Bound and Algorithm*, in IJCAI 2019, [link](https://www.ijcai.org/proceedings/2019/199)
 
 ## Tutorials by [SAIL](https://sail.uark.edu/)
 
