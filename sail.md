@@ -22,6 +22,6 @@ layout: default
 
 ## Tutorials by [SAIL](https://sail.uark.edu/)
 
-1. [Anti-discrimination Learning: From Association to Causation](http://csce.uark.edu/~xintaowu/kdd18-tutorial/ ), KDD 2018, Aug 19, 2018. London, UK
+1. [Anti-Discrimination Learning: from Association to Causation](http://csce.uark.edu/~xintaowu/publ/sbp17.pdf ), SBP-BRiMS 2017, July 5, 2017. Washington DC, USA
 2. [Anti-Discrimination Learning: from Association to Causation](https://cci.drexel.edu/bigdata/bigdata2017/files/Tutorial8.pdf ), IEEE BigData 2017, Dec 13, 2017. Boston, MA, USA
-3. [Anti-Discrimination Learning: from Association to Causation](http://csce.uark.edu/~xintaowu/publ/sbp17.pdf ), SBP-BRiMS 2017, July 5, 2017. Washington DC, USA
+3. [Anti-discrimination Learning: From Association to Causation](http://csce.uark.edu/~xintaowu/kdd18-tutorial/ ), KDD 2018, Aug 19, 2018. London, UK
