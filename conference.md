@@ -111,6 +111,7 @@ layout: default
 2. [Achieving Causal Fairness through Generative Adversarial Networks](https://doi.org/10.24963/ijcai.2019/201)
 3. [FAHT: An Adaptive Fairness-aware Decision Tree Classifier](https://doi.org/10.24963/ijcai.2019/205)
 4. [Delayed Impact of Fair Machine Learning](https://doi.org/10.24963/ijcai.2019/862)
+5. [The Price of Local Fairness in Multistage Selection](https://www.ijcai.org/proceedings/2019/809)
 
 ### [KDD 2019](https://dblp.uni-trier.de/db/conf/kdd/kdd2019.html)
 
