@@ -129,7 +129,9 @@ layout: default
 
 ### [UAI 2019](https://dblp.uni-trier.de/db/conf/uai/uai2019.html)
 
-> TBA
+1. [The Sensitivity of Counterfactual Fairness to Unmeasured Confounding](http://auai.org/uai2019/proceedings/papers/213.pdf)
+2. [Wasserstein Fair Classification](http://auai.org/uai2019/proceedings/papers/315.pdf)
+
 
 ### [WWW 2019](https://dblp.uni-trier.de/db/conf/www/www2019.html)
 
