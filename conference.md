@@ -136,7 +136,7 @@ layout: default
 
 ### Others 2019
 
-1. [Fighting Fire with Fire: Using Antidote Data to Improve Polarization and Fairness of Recommender Systems](https://doi.org/10.1145/3289600.3291002), WSDM 2019
+1. [Fighting Fire with Fire: Using Antidote Data to Improve Polarization and Fairness of Recommender Systems](https://doi.org/10.1145/3289600.3291002), [WSDM 2019](https://dblp.uni-trier.de/db/conf/wsdm/wsdm2019.html)
 
 ## 2018
 
