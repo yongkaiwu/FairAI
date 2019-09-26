@@ -132,13 +132,15 @@ layout: default
 1. [The Sensitivity of Counterfactual Fairness to Unmeasured Confounding](http://auai.org/uai2019/proceedings/papers/213.pdf)
 2. [Wasserstein Fair Classification](http://auai.org/uai2019/proceedings/papers/315.pdf)
 
-
 ### [WWW 2019](https://dblp.uni-trier.de/db/conf/www/www2019.html)
 
 1. [Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality](https://doi.org/10.1145/3308558.3313559)
 2. [FARE: Diagnostics for Fair Ranking using Pairwise Error Metrics](https://doi.org/10.1145/3308558.3313443)
 3. [On Convexity and Bounds of Fairness-aware Classification](https://doi.org/10.1145/3308558.3313723)
 
+### Others
+
+1. [Fighting Fire with Fire: Using Antidote Data to Improve Polarization and Fairness of Recommender Systems](https://doi.org/10.1145/3289600.3291002), WSDM 2019
 
 ## 2018
 
