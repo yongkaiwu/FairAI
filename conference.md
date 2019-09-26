@@ -28,10 +28,6 @@ layout: default
 
 > TBA
 
-### [COLT 2019](https://dblp.uni-trier.de/db/conf/colt/colt2019.html)
-
-> *null*
-
 ### [FAT\* 2019](https://dblp.uni-trier.de/db/conf/fat/fat2019.html)
 
 1. [Explaining Explanations in AI](https://dl.acm.org/authorize?N675479)
@@ -138,7 +134,7 @@ layout: default
 2. [FARE: Diagnostics for Fair Ranking using Pairwise Error Metrics](https://doi.org/10.1145/3308558.3313443)
 3. [On Convexity and Bounds of Fairness-aware Classification](https://doi.org/10.1145/3308558.3313723)
 
-### Others
+### Others 2019
 
 1. [Fighting Fire with Fire: Using Antidote Data to Improve Polarization and Fairness of Recommender Systems](https://doi.org/10.1145/3289600.3291002), WSDM 2019
 
@@ -158,10 +154,6 @@ layout: default
 1. [Fast Threshold Tests for Detecting Discrimination](http://proceedings.mlr.press/v84/pierson18a)
 2. [Spectral Algorithms for Computing Fair Support Vector Machines](http://proceedings.mlr.press/v84/olfat18a)
 
-### [ASONAM 2018](https://dblp.uni-trier.de/db/conf/asunam/asonam2018.html)
-
-1. [Biases in the Facebook News Feed: A Case Study on the Italian Elections](https://ieeexplore.ieee.org/document/8508659)
-
 ### [BIGDATA 2018](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2018.html)
 
 1. [FairGAN: Fairness-aware Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8622525)
@@ -170,10 +162,6 @@ layout: default
 
 1. [Fairness-Aware Tensor-Based Recommendation](https://dl.acm.org/citation.cfm?doid=3269206.3271795)
 2. [Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems](https://dl.acm.org/citation.cfm?doid=3269206.3272027)
-
-### [COLT 2018](https://dblp.uni-trier.de/db/conf/colt/colt2018.html)
-
-1. [Unleashing Linear Optimizers for Group-Fair Learning and Optimization](http://proceedings.mlr.press/v75/alabi18a.html)
 
 ### [FAT\* 2018](https://dblp.uni-trier.de/db/conf/fat/fat2018.html)
 
@@ -253,7 +241,8 @@ layout: default
 
 ### Others 2018
 
-1. [Biases in the Facebook News Feed: a Case Study on the Italian Elections](https://ieeexplore.ieee.org/document/8508659), ASONAM 2018
+1. [Biases in the Facebook News Feed: a Case Study on the Italian Elections](https://ieeexplore.ieee.org/document/8508659), [ASONAM 2018](https://dblp.uni-trier.de/db/conf/asunam/asonam2018.html)
+2. [Unleashing Linear Optimizers for Group-Fair Learning and Optimization](http://proceedings.mlr.press/v75/alabi18a.html), [COLT 2018](https://dblp.uni-trier.de/db/conf/colt/colt2018.html)
 
 ## 2017
 
@@ -273,10 +262,6 @@ layout: default
 
 1. [FA\*IR: A Fair Top-k Ranking Algorithm](http://doi.acm.org/10.1145/3132847.3132938)
 1. [Algorithmic Bias: Do Good Systems Make Relevant Documents More Retrievable?](http://doi.acm.org/10.1145/3132847.3133135)
-
-### [COLT 2017](https://dblp.uni-trier.de/db/conf/colt/colt2017.html)
-
-1. [Learning Non-Discriminatory Predictors](http://proceedings.mlr.press/v65/woodworth17a/woodworth17a.pdf)
 
 ### [FAT\* 2017](https://dblp.uni-trier.de/db/conf/fat/fat2017.html)
 
@@ -330,7 +315,8 @@ layout: default
 
 ### Others 2017
 
-1. [Inherent Trade-Offs in the Fair Determination of Risk Scores](http://drops.dagstuhl.de/opus/volltexte/2017/8156/), ITCS 2017
+1. [Learning Non-Discriminatory Predictors](http://proceedings.mlr.press/v65/woodworth17a/woodworth17a.pdf), [COLT 2017](https://dblp.uni-trier.de/db/conf/colt/colt2017.html)
+2. [Inherent Trade-Offs in the Fair Determination of Risk Scores](http://drops.dagstuhl.de/opus/volltexte/2017/8156/), [ITCS 2017](https://dblp.uni-trier.de/db/conf/innovations/innovations2017.html)
 
 ## 2016
 
@@ -347,10 +333,6 @@ layout: default
 > *null*
 
 ### [CIKM 2016](https://dblp.uni-trier.de/db/conf/cikm/cikm2016.html)
-
-> *null*
-
-### [COLT 2016](https://dblp.uni-trier.de/db/conf/colt/colt2016.html)
 
 > *null*
 
@@ -411,10 +393,6 @@ layout: default
 > *null*
 
 ### [CIKM 2015](https://dblp.uni-trier.de/db/conf/cikm/cikm2015.html)
-
-> *null*
-
-### [COLT 2015](https://dblp.uni-trier.de/db/conf/colt/colt2015.html)
 
 > *null*
 
