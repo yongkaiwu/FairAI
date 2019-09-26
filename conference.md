@@ -135,7 +135,9 @@ layout: default
 
 ### [WWW 2019](https://dblp.uni-trier.de/db/conf/www/www2019.html)
 
-> TBA
+1. [Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality](https://doi.org/10.1145/3308558.3313559)
+2. [FARE: Diagnostics for Fair Ranking using Pairwise Error Metrics](https://doi.org/10.1145/3308558.3313443)
+3. [On Convexity and Bounds of Fairness-aware Classification](https://doi.org/10.1145/3308558.3313723)
 
 
 ## 2018
