@@ -12,10 +12,13 @@ layout: default
 ## Tutorials
 
 1. [Algorithmic Bias: From Discrimination Discovery to Fairness-aware Data Mining](francescobonchi.com/algorithmic_bias_tutorial.html), KDD 2016
-2. [Fairness in Machine Learning](http://mrtz.org/nips17), NIPS 2017
-3. [Defining and Designing Fair Algorithms](https://policylab.stanford.edu/projects/defining-and-designing-fair-algorithms.html), ICML 2018
-4. [Anti-discrimination Learning: From Association to Causation](http://csce.uark.edu/~xintaowu/kdd18-tutorial/), KDD 2018
-5. [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/wsdm19-fairness-tutorial), WSDM 2019
+2. [Anti-discrimination Learning: From Association to Causation](https://cci.drexel.edu/bigdata/bigdata2017/files/Tutorial8.pdf), IEEE Big Data 2017
+3. [Fairness in Machine Learning](http://mrtz.org/nips17), NIPS 2017
+4. [Defining and Designing Fair Algorithms](https://policylab.stanford.edu/projects/defining-and-designing-fair-algorithms.html), ICML 2018
+5. [Anti-discrimination Learning: From Association to Causation](http://csce.uark.edu/~xintaowu/kdd18-tutorial/), KDD 2018
+6. [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/wsdm19-fairness-tutorial), WSDM 2019
+7. [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/www19-fairness-tutorial), WWW 2019
+8. [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/kdd19-fairness-tutorial), KDD 2019
 
 ## Workshops and Conferences
 
