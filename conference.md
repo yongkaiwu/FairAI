@@ -115,7 +115,9 @@ layout: default
 
 ### [KDD 2019](https://dblp.uni-trier.de/db/conf/kdd/kdd2019.html)
 
-> TBA
+1. [Fairness in Recommendation Ranking through Pairwise Comparisons](https://doi.org/10.1145/3292500.3330745)
+2. [Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search](https://doi.org/10.1145/3292500.3330691)
+3. [Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning](https://doi.org/10.1145/3292500.3330664)
 
 ### [NIPS 2019](https://dblp.uni-trier.de/db/conf/nips/nips2019.html)
 
