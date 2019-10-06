@@ -121,7 +121,7 @@ layout: default
 
 ### [SDM 2019](https://dblp.uni-trier.de/db/conf/sdm/sdm2019.html)
 
-> TBA
+1. [Fairness in representation: quantifying stereotyping as a representational harm](https://doi.org/10.1137/1.9781611975673.90)
 
 ### [UAI 2019](https://dblp.uni-trier.de/db/conf/uai/uai2019.html)
 
