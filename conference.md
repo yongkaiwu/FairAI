@@ -287,17 +287,16 @@ layout: default
 
 ### [NIPS 2017](https://dblp.uni-trier.de/db/conf/nips/nips2017.html)
 
-1. [Satisfying Real-world Goals with Dataset Constraints](http://papers.nips.cc/paper/6316-satisfying-real-world-goals-with-dataset-constraints)
 1. [From Parity to Preference-based Notions of Fairness in Classification](https://papers.nips.cc/paper/6627-from-parity-to-preference-based-notions-of-fairness-in-classification)
-1. [Controllable Invariance through Adversarial Feature Learning](https://papers.nips.cc/paper/6661-controllable-invariance-through-adversarial-feature-learning)
-1. [Avoiding Discrimination through Causal Reasoning](https://papers.nips.cc/paper/6668-avoiding-discrimination-through-causal-reasoning)
-1. [Recycling Privileged Learning and Distribution Matching for Fairness](https://papers.nips.cc/paper/6670-recycling-privileged-learning-and-distribution-matching-for-fairness)
-1. [Beyond Parity: Fairness Objectives for Collaborative Filtering](http://papers.nips.cc/paper/6885-beyond-parity-fairness-objectives-for-collaborative-filtering)
-1. [Optimized Pre-Processing for Discrimination Prevention](https://papers.nips.cc/paper/6988-optimized-pre-processing-for-discrimination-prevention)
-1. [Counterfactual Fairness](https://papers.nips.cc/paper/6995-counterfactual-fairness)
-1. [Fair Clustering Through Fairlets](http://papers.nips.cc/paper/7088-fair-clustering-through-fairlets)
-1. [On Fairness and Calibration](https://papers.nips.cc/paper/7151-on-fairness-and-calibration)
-1. [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/7220-when-worlds-collide-integrating-different-counterfactual-assumptions-in-fairness)
+2. [Controllable Invariance through Adversarial Feature Learning](https://papers.nips.cc/paper/6661-controllable-invariance-through-adversarial-feature-learning)
+3. [Avoiding Discrimination through Causal Reasoning](https://papers.nips.cc/paper/6668-avoiding-discrimination-through-causal-reasoning)
+4. [Recycling Privileged Learning and Distribution Matching for Fairness](https://papers.nips.cc/paper/6670-recycling-privileged-learning-and-distribution-matching-for-fairness)
+5. [Beyond Parity: Fairness Objectives for Collaborative Filtering](http://papers.nips.cc/paper/6885-beyond-parity-fairness-objectives-for-collaborative-filtering)
+6. [Optimized Pre-Processing for Discrimination Prevention](https://papers.nips.cc/paper/6988-optimized-pre-processing-for-discrimination-prevention)
+7. [Counterfactual Fairness](https://papers.nips.cc/paper/6995-counterfactual-fairness)
+8. [Fair Clustering Through Fairlets](http://papers.nips.cc/paper/7088-fair-clustering-through-fairlets)
+9. [On Fairness and Calibration](https://papers.nips.cc/paper/7151-on-fairness-and-calibration)
+10. [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/7220-when-worlds-collide-integrating-different-counterfactual-assumptions-in-fairness)
 
 ### [SDM 2017](https://dblp.uni-trier.de/db/conf/sdm/sdm2017.html)
 
