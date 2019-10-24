@@ -225,6 +225,7 @@ layout: default
 10. [The Price of Fair PCA: One Extra Dimension](http://papers.nips.cc/paper/8294-the-price-of-fair-pca-one-extra-dimension)
 11. [Equality of Opportunity in Classification: A Causal Approach](http://papers.nips.cc/paper/7625-equality-of-opportunity-in-classification-a-causal-approach)
 12. [Invariant Representations without Adversarial Training](https://papers.nips.cc/paper/8122-invariant-representations-without-adversarial-training)
+13. [Learning to Pivot with Adversarial Networks](http://papers.nips.cc/paper/6699-learning-to-pivot-with-adversarial-networks)
 
 ### [SDM 2018](https://dblp.uni-trier.de/db/conf/sdm/sdm2018.html)
 
