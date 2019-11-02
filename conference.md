@@ -204,6 +204,7 @@ layout: default
 ### [IJCAI 2018](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2018.html)
 
 1. [Achieving Non-Discrimination in Prediction](https://www.ijcai.org/proceedings/2018/430)
+2. [Preventing Disparate Treatment in Sequential Decision Making](https://www.ijcai.org/proceedings/2018/311)
 
 ### [KDD 2018](https://dblp.uni-trier.de/db/conf/kdd/kdd2018.html)
 
