@@ -26,7 +26,7 @@ layout: default
 
 ### [CIKM 2019](https://dblp.uni-trier.de/db/conf/cikm/cikm2019.html)
 
-> TBA
+1. [AdaFair: Cumulative Fairness Adaptive Boosting](https://doi.org/10.1145/3357384.3357974)
 
 ### [FAT\* 2019](https://dblp.uni-trier.de/db/conf/fat/fat2019.html)
 
