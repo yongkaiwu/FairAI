@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Fairness in Machine Learning
-description: This is a collection of papers and other resources related to fairness.
+title: FairML
+description: This is a collection of papers and other resources related to fairness in machine learning.
 plugins:
   - jekyll-seo-tag
 google_analytics: UA-111279954-1
