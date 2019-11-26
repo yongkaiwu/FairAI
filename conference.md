@@ -117,7 +117,29 @@ layout: default
 
 ### [NIPS 2019](https://dblp.uni-trier.de/db/conf/nips/nips2019.html)
 
-> TBA
+1. [Noise-tolerant fair classification](http://papers.nips.cc/paper/8322-noise-tolerant-fair-classification)
+2. [Envy-Free Classification](http://papers.nips.cc/paper/8407-envy-free-classification)
+3. [Discrimination in Online Markets: Effects of Social Bias on Learning from Reviews and Policy Design](http://papers.nips.cc/paper/8487-discrimination-in-online-markets-effects-of-social-bias-on-learning-from-reviews-and-policy-design)
+4. [PC-Fairness: A Unified Framework for Measuring Causality-based Fairness](http://papers.nips.cc/paper/8601-pc-fairness-a-unified-framework-for-measuring-causality-based-fairness)
+5. [Assessing Disparate Impact of Personalized Interventions: Identifiability and Bounds](http://papers.nips.cc/paper/8603-assessing-disparate-impact-of-personalized-interventions-identifiability-and-bounds)
+6. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric](http://papers.nips.cc/paper/8604-the-fairness-of-risk-scores-beyond-classification-bipartite-ranking-and-the-xauc-metric)
+7. [Fair Algorithms for Clustering](http://papers.nips.cc/paper/8741-fair-algorithms-for-clustering)
+8. [Characterizing Bias in Classifiers using Generative Models](http://papers.nips.cc/paper/8780-characterizing-bias-in-classifiers-using-generative-models)
+9. [Policy Learning for Fairness in Ranking](http://papers.nips.cc/paper/8782-policy-learning-for-fairness-in-ranking)
+10. [Average Individual Fairness: Algorithms, Generalization and Experiments](http://papers.nips.cc/paper/9034-average-individual-fairness-algorithms-generalization-and-experiments)
+11. [Paradoxes in Fair Machine Learning](http://papers.nips.cc/paper/9043-paradoxes-in-fair-machine-learning)
+12. [Unlocking Fairness: a Trade-off Revisited](http://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited)
+13. [Equal Opportunity in Online Classification with Partial Feedback](http://papers.nips.cc/paper/9099-equal-opportunity-in-online-classification-with-partial-feedback)
+14. [Learning Fairness in Multi-Agent Systems](http://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems)
+15. [On the Fairness of Disentangled Representations](http://papers.nips.cc/paper/9603-on-the-fairness-of-disentangled-representations)
+16. [Differential Privacy Has Disparate Impact on Model Accuracy](http://papers.nips.cc/paper/9681-differential-privacy-has-disparate-impact-on-model-accuracy)
+17. [Inherent Tradeoffs in Learning Fair Representations](http://papers.nips.cc/paper/9698-inherent-tradeoffs-in-learning-fair-representations)
+18. [Exploring Algorithmic Fairness in Robust Graph Covering Problems](http://papers.nips.cc/paper/9707-exploring-algorithmic-fairness-in-robust-graph-covering-problems)
+19. [Leveraging Labeled and Unlabeled Data for Consistent Fair Binary Classification](https://papers.nips.cc/paper/9437-leveraging-labeled-and-unlabeled-data-for-consistent-fair-binary-classification)
+20. [Assessing Social and Intersectional Biases in Contextualized Word Representations](https://papers.nips.cc/paper/9479-assessing-social-and-intersectional-biases-in-contextualized-word-representations)
+21. [Offline Contextual Bandits with High Probability Fairness Guarantees](https://papers.nips.cc/paper/9630-offline-contextual-bandits-with-high-probability-fairness-guarantees)
+22. [Multi-Criteria Dimensionality Reduction with Applications to Fairness](https://papers.nips.cc/paper/9652-multi-criteria-dimensionality-reduction-with-applications-to-fairness)
+23. [Group Retention when Using Machine Learning in Sequential Decision Making: the Interplay between User Dynamics and Fairness](https://papers.nips.cc/paper/9662-group-retention-when-using-machine-learning-in-sequential-decision-making-the-interplay-between-user-dynamics-and-fairness)
 
 ### [SDM 2019](https://dblp.uni-trier.de/db/conf/sdm/sdm2019.html)
 
