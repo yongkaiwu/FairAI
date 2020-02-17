@@ -386,6 +386,7 @@ layout: default
 1. [Fairness in Learning: Classic and Contextual Bandits](https://papers.nips.cc/paper/6355-fairness-in-learning-classic-and-contextual-bandits)
 2. [Equality of Opportunity in Supervised Learning](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning)
 3. [Satisfying Real-world Goals with Dataset Constraints](http://papers.nips.cc/paper/6316-satisfying-real-world-goals-with-dataset-constraints)
+4. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings)
 
 ### [SDM 2016](https://dblp.uni-trier.de/db/conf/sdm/sdm2016.html)
 
