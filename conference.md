@@ -74,7 +74,9 @@ layout: default
 
 ### [ICDM 2019](https://dblp.uni-trier.de/db/conf/icdm/icdm2019.html)
 
-> TBA
+1. [Fair Adversarial Gradient Tree Boosting](https://ieeexplore.ieee.org/document/8970941/)
+2. [Rank-Based Multi-task Learning For Fair Regression](https://ieeexplore.ieee.org/document/8970984/)
+3. [A Distributed Fair Machine Learning Framework with Private Demographic Data Protection](https://ieeexplore.ieee.org/document/8970908/)
 
 ### [ICML 2019](https://dblp.uni-trier.de/db/conf/icml/icml2019.html)
 
