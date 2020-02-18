@@ -11,7 +11,7 @@ layout: default
 
 ## Tutorials
 
-1. [Algorithmic Bias: From Discrimination Discovery to Fairness-aware Data Mining](francescobonchi.com/algorithmic_bias_tutorial.html), KDD 2016
+1. [Algorithmic Bias: From Discrimination Discovery to Fairness-aware Data Mining](http://www.francescobonchi.com/algorithmic_bias_tutorial.html), KDD 2016
 2. [Anti-discrimination Learning: From Association to Causation](https://cci.drexel.edu/bigdata/bigdata2017/files/Tutorial8.pdf), IEEE Big Data 2017
 3. [Fairness in Machine Learning](http://mrtz.org/nips17), NIPS 2017
 4. [Defining and Designing Fair Algorithms](https://policylab.stanford.edu/projects/defining-and-designing-fair-algorithms.html), ICML 2018
