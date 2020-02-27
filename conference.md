@@ -22,7 +22,9 @@ layout: default
 
 ### [BIGDATA 2019](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2019.html)
 
-> TBA
+1. [FAE: A Fairness-Aware Ensemble Framework](https://ieeexplore.ieee.org/document/9006487/)
+2. [Privacy Bargaining with Fairness: Privacy–Price Negotiation System for Applying Differential Privacy in Data Market Environments](https://ieeexplore.ieee.org/document/9006101/)
+3. [FairGAN+: Achieving Fair Data Generation and Classification through Generative Adversarial Nets](https://ieeexplore.ieee.org/document/9006322/)
 
 ### [CIKM 2019](https://dblp.uni-trier.de/db/conf/cikm/cikm2019.html)
 
