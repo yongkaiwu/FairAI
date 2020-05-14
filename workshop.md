@@ -97,6 +97,15 @@ layout: default
 - [Mitigating Cognitive Biases in Machine Learning Algorithms for Decision Making.](https://doi.org/10.1145/3366424.3383562)
 - [Biases on Social Media Data: (Keynote Extended Abstract).](https://doi.org/10.1145/3366424.3383564)
 
+### Others
+
+#### [SafeAI 2020](https://safeai.webs.upv.es/)
+
+- [Fair Enough: Improving Fairness in Budget-Constrained Decision Making Using Confidence Thresholds.](http://ceur-ws.org/Vol-2560/paper24.pdf)
+- [A Study on Multimodal and Interactive Explanations for Visual Question Answering.](http://ceur-ws.org/Vol-2560/paper44.pdf)
+- [You Shouldn't Trust Me: Learning Models Which Conceal Unfairness From Multiple Explanation Methods.](http://ceur-ws.org/Vol-2560/paper8.pdf)
+- [Algorithmic Discrimination: Formulation and Exploration in Deep Learning-based Face Biometrics.](http://ceur-ws.org/Vol-2560/paper10.pdf)
+
 ## 2019
 
 ### [AIES 2019](http://www.aies-conference.com/2019/)
