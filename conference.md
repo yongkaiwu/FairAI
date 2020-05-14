@@ -123,7 +123,9 @@ layout: default
 
 ### [WWW 2020](https://dblp.uni-trier.de/db/conf/www/www2020.html)
 
-> TBD
+- [FairRec: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms.](https://doi.org/10.1145/3366423.3380196)
+- [Designing Fairly Fair Classifiers Via Economic Fairness Notions.](https://doi.org/10.1145/3366423.3380228)
+- [Learning Model-Agnostic Counterfactual Explanations for Tabular Data.](https://doi.org/10.1145/3366423.3380087)
 
 ### Others 2020
 
