@@ -85,6 +85,18 @@ layout: default
 - [Deepfakes for Medical Video De-Identification: Privacy Protection and Diagnostic Information Preservation.](https://doi.org/10.1145/3375627.3375849)
 - [Arbiter: A Domain-Specific Language for Ethical Machine Learning.](https://doi.org/10.1145/3375627.3375858)
 
+### [FATES 2020](http://fates.isti.cnr.it/index.php/fates-2020/)
+
+- [A Unifying Framework for Fairness-Aware Influence Maximization.](https://doi.org/10.1145/3366424.3383555)
+- [Convex Fairness Constrained Model Using Causal Effect Estimators.](https://doi.org/10.1145/3366424.3383556)
+- [Fairness of Classification Using Users' Social Relationships in Online Peer-To-Peer Lending.](https://doi.org/10.1145/3366424.3383557)
+- [Fairness through Equality of Effort.](https://doi.org/10.1145/3366424.3383558)
+- [Quantifying Gender Bias in Different Corpora.](https://doi.org/10.1145/3366424.3383559)
+- [Studying Political Bias via Word Embeddings.](https://doi.org/10.1145/3366424.3383560)
+- [Representativeness of Abortion Legislation Debate on Twitter: A Case Study in Argentina and Chile.](https://doi.org/10.1145/3366424.3383561)
+- [Mitigating Cognitive Biases in Machine Learning Algorithms for Decision Making.](https://doi.org/10.1145/3366424.3383562)
+- [Biases on Social Media Data: (Keynote Extended Abstract).](https://doi.org/10.1145/3366424.3383564)
+
 ## 2019
 
 ### [AIES 2019](http://www.aies-conference.com/2019/)
