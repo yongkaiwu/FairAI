@@ -290,6 +290,8 @@ layout: default
 ### Others 2019
 
 - [Fighting Fire with Fire: Using Antidote Data to Improve Polarization and Fairness of Recommender Systems](https://doi.org/10.1145/3289600.3291002), [WSDM 2019](https://dblp.uni-trier.de/db/conf/wsdm/wsdm2019.html)
+- [Interventional Fairness: Causal Database Repair for Algorithmic Fairness.](https://doi.org/10.1145/3299869.3319901), [SIGMOD 2019](https://dblp.uni-trier.de/db/conf/sigmod/index.html)
+- [Designing Fair Ranking Schemes.](https://doi.org/10.1145/3299869.3300079), [SIGMOD 2019](https://dblp.uni-trier.de/db/conf/sigmod/index.html)
 
 ## 2018
 
