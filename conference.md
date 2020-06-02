@@ -115,7 +115,8 @@ layout: default
 
 ### [SDM 2020](https://dblp.uni-trier.de/db/conf/sdm/sdm2020.html)
 
-> TBD
+- [Bayesian Modeling of Intersectional Fairness: The Variance of Bias.](https://doi.org/10.1137/1.9781611976236.48)
+- [On the Information Unfairness of Social Networks.](https://doi.org/10.1137/1.9781611976236.69)
 
 ### [UAI 2020](https://dblp.uni-trier.de/db/conf/uai/uai2020.html)
 
