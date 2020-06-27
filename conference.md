@@ -12,7 +12,15 @@ layout: default
 
 ### [AISTATS 2020](https://dblp.uni-trier.de/db/conf/aistats/aistats2020.html)
 
-> TBD
+- [Stretching the Effectiveness of MLE from Accuracy to Bias for Pairwise Comparisons.](http://proceedings.mlr.press/v108/wang20a.html)
+- [Learning Fair Representations for Kernel Models.](http://proceedings.mlr.press/v108/tan20a.html)
+- [Fair Decisions Despite Imperfect Predictions.](http://proceedings.mlr.press/v108/kilbertus20a.html)
+- [Identifying and Correcting Label Bias in Machine Learning.](http://proceedings.mlr.press/v108/jiang20a.html)
+- [Optimized Score Transformation for Fair Classification.](http://proceedings.mlr.press/v108/wei20a.html)
+- [Equalized odds postprocessing under imperfect group information.](http://proceedings.mlr.press/v108/awasthi20a.html)
+- [Fairness Evaluation in Presence of Biased Noisy Labels.](http://proceedings.mlr.press/v108/fogliato20a.html)
+- [Fair Correlation Clustering.](http://proceedings.mlr.press/v108/ahmadian20a.html)
+- [Auditing ML Models for Individual Bias and Unfairness.](http://proceedings.mlr.press/v108/xue20a.html)
 
 ### [BIGDATA 2020](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2020.html)
 
