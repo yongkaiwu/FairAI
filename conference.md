@@ -8,7 +8,15 @@ layout: default
 
 ### [AAAI 2020](https://dblp.uni-trier.de/db/conf/aaai/aaai2020.html)
 
-> TBD
+- [Faking Fairness via Stealthily Biased Sampling.](https://aaai.org/ojs/index.php/AAAI/article/view/5377)
+- [Differentially Private and Fair Classification via Calibrated Functional Mechanism.](https://aaai.org/ojs/index.php/AAAI/article/view/5402)
+- [Bursting the Filter Bubble: Fairness-Aware Network Link Prediction.](https://aaai.org/ojs/index.php/AAAI/article/view/5429)
+- [Making Existing Clusterings Fairer: Algorithms, Complexity Results and Insights.](https://aaai.org/ojs/index.php/AAAI/article/view/5783)
+- [Fairness in Network Representation by Latent Structural Heterogeneity in Observational Data.](https://aaai.org/ojs/index.php/AAAI/article/view/5792)
+- [Pairwise Fairness for Ranking and Regression.](https://aaai.org/ojs/index.php/AAAI/article/view/5970)
+- [Achieving Fairness in the Stochastic Multi-Armed Bandit Problem.](https://aaai.org/ojs/index.php/AAAI/article/view/5986)
+- [Fairness for Robust Log Loss Classification.](https://aaai.org/ojs/index.php/AAAI/article/view/6002)
+- [Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns.](https://aaai.org/ojs/index.php/AAAI/article/view/6565)
 
 ### [AISTATS 2020](https://dblp.uni-trier.de/db/conf/aistats/aistats2020.html)
 
