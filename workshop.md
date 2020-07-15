@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Workshop Papers
 
 ## 2020

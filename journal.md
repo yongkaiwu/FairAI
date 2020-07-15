@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Journal Papers
 
 ## 2019

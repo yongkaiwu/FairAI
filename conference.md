@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Conference Papers
 
 ## 2020

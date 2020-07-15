@@ -1,8 +1,3 @@
----
-permalink: /
-layout: default
----
-
 # Homepage
 
 This is a comprehensive repository containing the latest papers, tutorials, and other resources on Fairness in Artificial Intelligence.

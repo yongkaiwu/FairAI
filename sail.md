@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Papers from [SAIL](https://sail.uark.edu/)
 
 - Yongkai Wu and Xintao Wu, *Using Loglinear Model for Discrimination Discovery and Prevention*, in DSAA 2016, [link](http://ieeexplore.ieee.org/abstract/document/7796896/)
