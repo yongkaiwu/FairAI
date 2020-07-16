@@ -115,7 +115,14 @@
 
 ### [IJCAI 2020](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2020.html)
 
-> TBD
+- [WEFE: The Word Embeddings Fairness Evaluation Framework.](https://doi.org/10.24963/ijcai.2020/60)
+- [Individual Fairness Revisited: Transferring Techniques from Adversarial Robustness.](https://doi.org/10.24963/ijcai.2020/61)
+- [Achieving Outcome Fairness in Machine Learning Models for Social Decision Problems.](https://doi.org/10.24963/ijcai.2020/62)
+- [Relation-Based Counterfactual Explanations for Bayesian Network Classifiers.](https://doi.org/10.24963/ijcai.2020/63)
+- [Metamorphic Testing and Certified Mitigation of Fairness Violations in NLP Models.](https://doi.org/10.24963/ijcai.2020/64)
+- [Fairness-Aware Neural Rényi Minimization for Continuous Features.](https://doi.org/10.24963/ijcai.2020/313)
+- [FNNC: Achieving Fairness through Neural Networks.](https://doi.org/10.24963/ijcai.2020/315)
+- [Adversarial Graph Embeddings for Fair Influence Maximization over Social Networks.](https://doi.org/10.24963/ijcai.2020/594)
 
 ### [KDD 2020](https://dblp.uni-trier.de/db/conf/kdd/kdd2020.html)
 
