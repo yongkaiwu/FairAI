@@ -139,7 +139,9 @@
 
 ### [UAI 2020](https://dblp.uni-trier.de/db/conf/uai/uai2020.html)
 
-> TBD
+- [Fair Contextual Multi-Armed Bandits: Theory and Experiments.](http://www.auai.org/uai2020/proceedings/99_main_paper.pdf)
+- [Towards Threshold Invariant Fair Classification.](http://www.auai.org/uai2020/proceedings/237_main_paper.pdf)
+- [Verifying Individual Fairness in Machine Learning Models.](http://www.auai.org/uai2020/proceedings/327_main_paper.pdf)
 
 ### [WWW 2020](https://dblp.uni-trier.de/db/conf/www/www2020.html)
 
