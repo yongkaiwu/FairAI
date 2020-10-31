@@ -126,7 +126,12 @@
 
 ### [KDD 2020](https://dblp.uni-trier.de/db/conf/kdd/kdd2020.html)
 
-> TBD
+- [InFoRM: Individual Fairness on Graph Mining.](https://dl.acm.org/doi/10.1145/3394486.3403080)
+- [Towards Fair Truth Discovery from Biased Crowdsourced Answers.](https://dl.acm.org/doi/10.1145/3394486.3403102)
+- [Evaluating Fairness Using Permutation Tests.](https://dl.acm.org/doi/10.1145/3394486.3403199)
+- [A Causal Look at Statistical Definitions of Discrimination.](https://dl.acm.org/doi/10.1145/3394486.3403130)
+- [List-wise Fairness Criterion for Point Processes.](https://dl.acm.org/doi/10.1145/3394486.3403246)
+- [Algorithmic Decision Making with Conditional Fairness.](https://dl.acm.org/doi/10.1145/3394486.3403263)
 
 ### [NIPS 2020](https://dblp.uni-trier.de/db/conf/nips/nips2020.html)
 
