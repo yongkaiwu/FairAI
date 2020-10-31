@@ -32,7 +32,12 @@
 
 ### [CIKM 2020](https://dblp.uni-trier.de/db/conf/cikm/cikm2020.html)
 
-> TBD
+- [Spectral Relaxations and Fair Densest Subgraphs.](https://doi.org/10.1145/3340531.3412036)
+- [Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes.](https://doi.org/10.1145/3340531.3411980)
+- [Active Query of Private Demographic Data for Learning Fair Models.](https://doi.org/10.1145/3340531.3412074)
+- [Fairness-Aware Learning with Prejudice Free Representations.](https://doi.org/10.1145/3340531.3412150)
+- [Denoising Individual Bias for Fairer Binary Submatrix Detection.](https://doi.org/10.1145/3340531.3412156)
+- [LiFT: A Scalable Framework for Measuring Fairness in ML Applications.](https://doi.org/10.1145/3340531.3412705)
 
 ### [FAT\* 2020](https://dblp.uni-trier.de/db/conf/fat/fat2020.html)
 
