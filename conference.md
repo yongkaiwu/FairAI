@@ -116,7 +116,22 @@
 
 ### [ICML 2020](https://dblp.uni-trier.de/db/conf/icml/icml2020.html)
 
-> TBD
+- [A Pairwise Fair and Community-preserving Approach to k-Center Clustering.](http://proceedings.mlr.press/v119/brubach20a.html)
+- [How to Solve Fair k-Center in Massive Data Models.](http://proceedings.mlr.press/v119/chiplunkar20a.html)
+- [Fair Generative Modeling via Weak Supervision.](http://proceedings.mlr.press/v119/choi20a.html)
+- [Causal Modeling for Fairness In Dynamical Systems.](http://proceedings.mlr.press/v119/creager20a.html)
+- [Is There a Trade-Off Between Fairness and Accuracy? A Perspective Using Mismatched Hypothesis Testing.](http://proceedings.mlr.press/v119/dutta20a.html)
+- [Fair k-Centers via Maximum Matching.](http://proceedings.mlr.press/v119/jones20a.html)
+- [FACT: A Diagnostic for Group Fairness Trade-offs.](http://proceedings.mlr.press/v119/kim20a.html)
+- [Too Relaxed to Be Fair.](http://proceedings.mlr.press/v119/lohaus20a.html)
+- [Individual Fairness for k-Clustering.](http://proceedings.mlr.press/v119/mahabadi20a.html)
+- [Minimax Pareto Fairness: A Multi Objective Perspective.](http://proceedings.mlr.press/v119/martinez20a.html)
+- [Fair Learning with Private Demographic Data.](http://proceedings.mlr.press/v119/mozannar20a.html)
+- [Two Simple Ways to Learn Individual Fairness Metrics from Data.](http://proceedings.mlr.press/v119/mukherjee20a.html)
+- [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training.](http://proceedings.mlr.press/v119/roh20a.html)
+- [Bounding the fairness and accuracy of classifiers from population statistics.](http://proceedings.mlr.press/v119/sabato20a.html)
+- [Measuring Non-Expert Comprehension of Machine Learning Fairness Metrics.](http://proceedings.mlr.press/v119/saha20c.html)
+- [Learning Fair Policies in Multi-Objective (Deep) Reinforcement Learning with Average and Discounted Rewards.](http://proceedings.mlr.press/v119/siddique20a.html)
 
 ### [IJCAI 2020](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2020.html)
 
