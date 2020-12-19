@@ -132,6 +132,9 @@
 - [Bounding the fairness and accuracy of classifiers from population statistics.](http://proceedings.mlr.press/v119/sabato20a.html)
 - [Measuring Non-Expert Comprehension of Machine Learning Fairness Metrics.](http://proceedings.mlr.press/v119/saha20c.html)
 - [Learning Fair Policies in Multi-Objective (Deep) Reinforcement Learning with Average and Discounted Rewards.](http://proceedings.mlr.press/v119/siddique20a.html)
+- [Learning De-biased Representations with Biased Representations.](http://proceedings.mlr.press/v119/bahng20a.html)
+- [DeBayes: a Bayesian Method for Debiasing Network Embeddings.](http://proceedings.mlr.press/v119/buyl20a.html)
+- [Data preprocessing to mitigate bias: A maximum entropy based approach.](http://proceedings.mlr.press/v119/celis20a.html)
 
 ### [IJCAI 2020](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2020.html)
 
