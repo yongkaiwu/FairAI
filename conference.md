@@ -156,9 +156,28 @@
 - [List-wise Fairness Criterion for Point Processes.](https://dl.acm.org/doi/10.1145/3394486.3403246)
 - [Algorithmic Decision Making with Conditional Fairness.](https://dl.acm.org/doi/10.1145/3394486.3403263)
 
-### [NIPS 2020](https://dblp.uni-trier.de/db/conf/nips/nips2020.html)
+### [NIPS 2020](https://dblp.uni-trier.de/db/conf/nips/neurips2020.html)
 
-> TBD
+- [Achieving Equalized Odds by Resampling Sensitive Attributes.](https://proceedings.neurips.cc/paper/2020/hash/03593ce517feac573fdaafa6dcedef61-Abstract.html)
+- [Fairness without Demographics through Adversarially Reweighted Learning.](https://proceedings.neurips.cc/paper/2020/hash/07fc15c9d169ee48573edd749d25945d-Abstract.html)
+- [Fairness with Overlapping Groups; a Probabilistic Perspective.](https://proceedings.neurips.cc/paper/2020/hash/29c0605a3bab4229e46723f89cf59d83-Abstract.html)
+- [Robust Optimization for Fairness with Noisy Protected Groups.](https://proceedings.neurips.cc/paper/2020/hash/37d097caf1299d9aa79c2c2b843d2d78-Abstract.html)
+- [Fair regression with Wasserstein barycenters.](https://proceedings.neurips.cc/paper/2020/hash/51cdbd2611e844ece5d80878eb770436-Abstract.html)
+- [Learning Certified Individually Fair Representations.](https://proceedings.neurips.cc/paper/2020/hash/55d491cf951b1b920900684d71419282-Abstract.html)
+- [Metric-Free Individual Fairness in Online Learning.](https://proceedings.neurips.cc/paper/2020/hash/80b618ebcac7aa97a6dac2ba65cb7e36-Abstract.html)
+- [Fairness constraints can help exact inference in structured prediction.](https://proceedings.neurips.cc/paper/2020/hash/8248a99e81e752cb9b41da3fc43fbe7f-Abstract.html)
+- [Investigating Gender Bias in Language Models Using Causal Mediation Analysis.](https://proceedings.neurips.cc/paper/2020/hash/92650b2e92217715fe312e6fa7b90d82-Abstract.html)
+- [Probabilistic Fair Clustering.](https://proceedings.neurips.cc/paper/2020/hash/95f2b84de5660ddf45c8a34933a2e66f-Abstract.html)
+- [KFC: A Scalable Approximation Algorithm for $k$-center Fair Clustering.](https://proceedings.neurips.cc/paper/2020/hash/a6d259bfbfa2062843ef543e21d7ec8e-Abstract.html)
+- [A Fair Classifier Using Kernel Density Estimation.](https://proceedings.neurips.cc/paper/2020/hash/ac3870fcad1cfc367825cda0101eee62-Abstract.html)
+- [Exploiting MMD and Sinkhorn Divergences for Fair and Transferable Representation Learning.](https://proceedings.neurips.cc/paper/2020/hash/af9c0e0c1dee63e5acad8b7ed1a5be96-Abstract.html)
+- [Fair Multiple Decision Making Through Soft Interventions.](https://proceedings.neurips.cc/paper/2020/hash/d0921d442ee91b896ad95059d13df618-Abstract.html)
+- [Ensuring Fairness Beyond the Training Data.](https://proceedings.neurips.cc/paper/2020/hash/d6539d3b57159babf6a72e106beb45bd-Abstract.html)
+- [How do fair decisions fare in long-term qualification?](https://proceedings.neurips.cc/paper/2020/hash/d6d231705f96d5a35aeb3a76402e49a3-Abstract.html)
+- [Can I Trust My Fairness Metric? Assessing Fairness with Unlabeled Data and Bayesian Inference.](https://proceedings.neurips.cc/paper/2020/hash/d83de59e10227072a9c034ce10029c39-Abstract.html)
+- [Fair regression via plug-in estimator and recalibration with statistical guarantees.](https://proceedings.neurips.cc/paper/2020/hash/ddd808772c035aed516d42ad3559be5f-Abstract.html)
+- [Learning from Failure: De-biasing Classifier from Biased Classifier.](https://proceedings.neurips.cc/paper/2020/hash/eddc3427c5d77843c2253f1e799fe933-Abstract.html)
+- [Fair Hierarchical Clustering.](https://proceedings.neurips.cc/paper/2020/hash/f10f2da9a238b746d2bac55759915f0d-Abstract.html)
 
 ### [SDM 2020](https://dblp.uni-trier.de/db/conf/sdm/sdm2020.html)
 
