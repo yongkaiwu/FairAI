@@ -137,6 +137,19 @@
 
 ### Others 2021
 
+#### [WSDM 2021](https://dblp.uni-trier.de/db/conf/wsdm/wsdm2021.html)
+
+- [Popularity-Opportunity Bias in Collaborative Filtering.](https://doi.org/10.1145/3437963.3441820)
+- [Deconfounding with Networked Observational Data in a Dynamic Environment.](https://doi.org/10.1145/3437963.3441818)
+- [Causal Transfer Random Forest: Combining Logged Data and Randomized Experiments for Robust Prediction.](https://doi.org/10.1145/3437963.3441722)
+- [Split-Treatment Analysis to Rank Heterogeneous Causal Effects for Prospective Interventions.](https://doi.org/10.1145/3437963.3441821)
+- [Explain and Predict, and then Predict Again.](https://doi.org/10.1145/3437963.3441758)
+- [Combating Selection Biases in Recommender Systems with a Few Unbiased Ratings.](https://doi.org/10.1145/3437963.3441799)
+- [Practical Compositional Fairness: Understanding Fairness in Multi-Component Recommender Systems.](https://doi.org/10.1145/3437963.3441732)
+- [Towards Long-term Fairness in Recommendation.](https://doi.org/10.1145/3437963.3441824)
+- [Unifying Online and Counterfactual Learning to Rank: A Novel Counterfactual Estimator that Effectively Utilizes Online Interventions.](https://doi.org/10.1145/3437963.3441794)
+- [Interpretable Ranking with Generalized Additive Models.](https://doi.org/10.1145/3437963.3441796)
+
 ## 2020
 
 ### [AAAI 2020](https://dblp.uni-trier.de/db/conf/aaai/aaai2020.html)
