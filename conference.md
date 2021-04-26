@@ -348,7 +348,10 @@
 
 ### Others 2020
 
-> TBD
+#### [ASONAM 2020](https://dblp.uni-trier.de/db/conf/asunam/asonam2020.html)
+
+- [Bias in Knowledge Graph Embeddings.](https://doi.org/10.1109/ASONAM49781.2020.9381459)
+- [Debiasing Graph Representations via Metadata-Orthogonal Training.](https://doi.org/10.1109/ASONAM49781.2020.9381348)
 
 ## 2019
 
