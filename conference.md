@@ -8,7 +8,14 @@
 
 ### [AISTATS 2021](https://dblp.uni-trier.de/db/conf/aistats/aistats2021.html)
 
-> TBD
+- [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint.](http://proceedings.mlr.press/v130/chikahara21a.html)
+- [Learning Smooth and Fair Representations.](http://proceedings.mlr.press/v130/gitiaux21a.html)
+- [Learning Fair Scoring Functions: Bipartite Ranking under ROC-based Fairness Constraints.](http://proceedings.mlr.press/v130/vogel21a.html)
+- [Algorithms for Fairness in Sequential Decision Making.](http://proceedings.mlr.press/v130/wen21a.html)
+- [All of the Fairness for Edge Prediction with Optimal Transport.](http://proceedings.mlr.press/v130/laclau21a.html)
+- [Differentiable Causal Discovery Under Unmeasured Confounding.](http://proceedings.mlr.press/v130/bhattacharya21a.html)
+- [Causal Modeling with Stochastic Confounders.](http://proceedings.mlr.press/v130/vinh-vo21a.html)
+- [Fair for All: Best-effort Fairness Guarantees for Classification.](http://proceedings.mlr.press/v130/krishnaswamy21a.html)
 
 ### [BIGDATA 2021](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2021.html)
 
