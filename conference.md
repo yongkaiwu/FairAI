@@ -2,23 +2,23 @@
 
 ## 2021
 
-### [AAAI 2020](https://dblp.uni-trier.de/db/conf/aaai/aaai2020.html)
+### [AAAI 2021](https://dblp.uni-trier.de/db/conf/aaai/aaai2021.html)
 
 > TBD
 
-### [AISTATS 2020](https://dblp.uni-trier.de/db/conf/aistats/aistats2020.html)
+### [AISTATS 2021](https://dblp.uni-trier.de/db/conf/aistats/aistats2021.html)
 
 > TBD
 
-### [BIGDATA 2020](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2020.html)
+### [BIGDATA 2021](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2021.html)
 
 > TBD
 
-### [CIKM 2020](https://dblp.uni-trier.de/db/conf/cikm/cikm2020.html)
+### [CIKM 2021](https://dblp.uni-trier.de/db/conf/cikm/cikm2021.html)
 
 > TBD
 
-### [FAT\* 2020](https://dblp.uni-trier.de/db/conf/fat/fat2020.html)
+### [FAT\* 2021](https://dblp.uni-trier.de/db/conf/fat/fat2021.html)
 
 - [Black Feminist Musings on Algorithmic Oppression.](https://doi.org/10.1145/3442188.3445929)
 - [Price Discrimination with Fairness Constraints.](https://doi.org/10.1145/3442188.3445864)
@@ -103,35 +103,35 @@
 - [BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation.](https://doi.org/10.1145/3442188.3445924)
 - [When the Umpire is also a Player: Bias in Private Label Product Recommendations on E-commerce Marketplaces.](https://doi.org/10.1145/3442188.3445944)
 
-### [ICDM 2020](https://dblp.uni-trier.de/db/conf/icdm/icdm2020.html)
+### [ICDM 2021](https://dblp.uni-trier.de/db/conf/icdm/icdm2021.html)
 
 > TBD
 
-### [ICML 2020](https://dblp.uni-trier.de/db/conf/icml/icml2020.html)
+### [ICML 2021](https://dblp.uni-trier.de/db/conf/icml/icml2021.html)
 
 > TBD
 
-### [IJCAI 2020](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2020.html)
+### [IJCAI 2021](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2021.html)
 
 > TBD
 
-### [KDD 2020](https://dblp.uni-trier.de/db/conf/kdd/kdd2020.html)
+### [KDD 2021](https://dblp.uni-trier.de/db/conf/kdd/kdd2021.html)
 
 > TBD
 
-### [NIPS 2020](https://dblp.uni-trier.de/db/conf/nips/neurips2020.html)
+### [NIPS 2021](https://dblp.uni-trier.de/db/conf/nips/neurips2021.html)
 
 > TBD
 
-### [SDM 2020](https://dblp.uni-trier.de/db/conf/sdm/sdm2020.html)
+### [SDM 2021](https://dblp.uni-trier.de/db/conf/sdm/sdm2021.html)
 
 > TBD
 
-### [UAI 2020](https://dblp.uni-trier.de/db/conf/uai/uai2020.html)
+### [UAI 2021](https://dblp.uni-trier.de/db/conf/uai/uai2021.html)
 
 > TBD
 
-### [WWW 2020](https://dblp.uni-trier.de/db/conf/www/www2020.html)
+### [WWW 2021](https://dblp.uni-trier.de/db/conf/www/www2021.html)
 
 > TBD
 
