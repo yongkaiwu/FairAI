@@ -128,7 +128,7 @@
 
 ### [NIPS 2021](https://dblp.uni-trier.de/db/conf/nips/neurips2021.html)
 
-> TBD
+- [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu)
 
 ### [SDM 2021](https://dblp.uni-trier.de/db/conf/sdm/sdm2021.html)
 
