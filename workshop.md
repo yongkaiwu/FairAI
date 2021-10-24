@@ -115,6 +115,17 @@
 - [RelEx: A Model-Agnostic Relational Model Explainer.](https://doi.org/10.1145/3461702.3462562)
 - [Skilled and Mobile: Survey Evidence of AI Researchers' Immigration Preferences.](https://doi.org/10.1145/3461702.3462617)
 
+### [FATES 2021](http://fates.isti.cnr.it/index.php/call-for-papers-2021/)
+
+- [Automating Fairness Configurations for Machine Learning.](https://doi.org/10.1145/3442442.3452301)
+- [Fairness beyond "equal": The Diversity Searcher as a Tool to Detect and Enhance the Representation of Socio-political Actors in News Media.](https://doi.org/10.1145/3442442.3452303)
+- [Characterizing and Comparing COVID-19 Misinformation Across Languages, Countries and Platforms.](https://doi.org/10.1145/3442442.3452304)
+- [Political Polarization and Platform Migration: : A Study of Parler and Twitter Usage by United States of America Congress Members.](https://doi.org/10.1145/3442442.3452305)
+- [Auditing Source Diversity Bias in Video Search Results Using Virtual Agents.](https://doi.org/10.1145/3442442.3452306)
+- [AI Principles in Identifying Toxicity in Online Conversation: Keynote at the Third Workshop on Fairness, Accountability, Transparency, Ethics and Society on the Web.](https://doi.org/10.1145/3442442.3452307)
+
+### Others
+
 ## 2020
 
 ### [AIES 2020](https://www.aies-conference.com/2020/)
