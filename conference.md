@@ -181,7 +181,9 @@
 
 ### [SDM 2021](https://dblp.uni-trier.de/db/conf/sdm/sdm2021.html)
 
-> TBD
+- [Fairness-aware Agnostic Federated Learning.](https://doi.org/10.1137/1.9781611976700.21)
+- [Equitable Allocation of Healthcare Resources with Fair Survival Models.](https://doi.org/10.1137/1.9781611976700.22)
+- [Fair Classification Under Strict Unawareness.](https://doi.org/10.1137/1.9781611976700.23)
 
 ### [UAI 2021](https://dblp.uni-trier.de/db/conf/uai/uai2021.html)
 
