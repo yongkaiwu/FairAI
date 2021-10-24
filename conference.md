@@ -143,7 +143,13 @@
 
 ### [IJCAI 2021](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2021.html)
 
-> TBD
+- [Bias Silhouette Analysis: Towards Assessing the Quality of Bias Metrics for Word Embedding Models.](https://doi.org/10.24963/ijcai.2021/77)
+- [Decision Making with Differential Privacy under a Fairness Lens.](https://doi.org/10.24963/ijcai.2021/78)
+- [An Examination of Fairness of AI Models for Deepfake Detection.](https://doi.org/10.24963/ijcai.2021/79)
+- [Towards Reducing Biases in Combining Multiple Experts Online.](https://doi.org/10.24963/ijcai.2021/416)
+- [Understanding the Effect of Bias in Deep Anomaly Detection.](https://doi.org/10.24963/ijcai.2021/456)
+- [Graph Debiased Contrastive Learning with Joint Representation Clustering.](https://doi.org/10.24963/ijcai.2021/473)
+- [Controlling Fairness and Bias in Dynamic Learning-to-Rank (Extended Abstract).](https://doi.org/10.24963/ijcai.2021/655)
 
 ### [KDD 2021](https://dblp.uni-trier.de/db/conf/kdd/kdd2021.html)
 
