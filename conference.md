@@ -194,6 +194,10 @@
 - [Unifying Online and Counterfactual Learning to Rank: A Novel Counterfactual Estimator that Effectively Utilizes Online Interventions.](https://doi.org/10.1145/3437963.3441794)
 - [Interpretable Ranking with Generalized Additive Models.](https://doi.org/10.1145/3437963.3441796)
 
+#### [COLT 2021](learningtheory.org/colt2021/)
+
+- [Approximation Algorithms for Socially Fair Clustering.](http://proceedings.mlr.press/v134/makarychev21a.html)
+
 ## 2020
 
 ### [AAAI 2020](https://dblp.uni-trier.de/db/conf/aaai/aaai2020.html)
