@@ -147,7 +147,15 @@
 
 ### [KDD 2021](https://dblp.uni-trier.de/db/conf/kdd/kdd2021.html)
 
-> TBD
+- [Towards Model-Agnostic Post-Hoc Adjustment for Balancing Ranking Fairness and Algorithm Utility.](https://doi.org/10.1145/3447548.3467251)
+- [Individual Fairness for Graph Neural Networks: A Ranking based Approach.](https://doi.org/10.1145/3447548.3467266)
+- [Maxmin-Fair Ranking: Individual Fairness under Group-Fairness Constraints.](https://doi.org/10.1145/3447548.3467349)
+- [Federated Adversarial Debiasing for Fair and Transferable Representations.](https://doi.org/10.1145/3447548.3467281)
+- [Explaining Algorithmic Fairness Through Fairness-Aware Causal Path Decomposition.](https://doi.org/10.1145/3447548.3467258)
+- [Deep Clustering based Fair Outlier Detection.](https://doi.org/10.1145/3447548.3467225)
+- [Deconfounded Recommendation for Alleviating Bias Amplification.](https://doi.org/10.1145/3447548.3467249)
+- [Understanding and Improving Fairness-Accuracy Trade-offs in Multi-Task Learning.](https://doi.org/10.1145/3447548.3467326)
+- [Fairness-Aware Online Meta-learning.](https://doi.org/10.1145/3447548.3467389)
 
 ### [NIPS 2021](https://dblp.uni-trier.de/db/conf/nips/neurips2021.html)
 
