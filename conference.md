@@ -4,7 +4,30 @@
 
 ### [AAAI 2021](https://dblp.uni-trier.de/db/conf/aaai/aaai2021.html)
 
-> TBD
+- [Learning Disentangled Representation for Fair Facial Attribute Classification via Fairness-aware Information Alignment.](https://ojs.aaai.org/index.php/AAAI/article/view/16341)
+- [Fairness-aware News Recommendation with Decomposed Adversarial Learning.](https://ojs.aaai.org/index.php/AAAI/article/view/16573)
+- [Fair and Truthful Mechanisms for Dichotomous Valuations.](https://ojs.aaai.org/index.php/AAAI/article/view/16647)
+- [Maximin Fairness with Mixed Divisible and Indivisible Goods.](https://ojs.aaai.org/index.php/AAAI/article/view/16653)
+- [Protecting the Protected Group: Circumventing Harmful Fairness.](https://ojs.aaai.org/index.php/AAAI/article/view/16654)
+- [Fairness, Semi-Supervised Learning, and More: A General Framework for Clustering with Stochastic Pairwise Constraints.](https://ojs.aaai.org/index.php/AAAI/article/view/16842)
+- [The Importance of Modeling Data Missingness in Algorithmic Fairness: A Causal Perspective.](https://ojs.aaai.org/index.php/AAAI/article/view/16926)
+- [Controllable Guarantees for Fair Outcomes via Contrastive Information Estimation.](https://ojs.aaai.org/index.php/AAAI/article/view/16931)
+- [Constructing a Fair Classifier with Generated Fair Data.](https://ojs.aaai.org/index.php/AAAI/article/view/16965)
+- [Improving Fairness and Privacy in Selection Problems.](https://ojs.aaai.org/index.php/AAAI/article/view/16986)
+- [Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder.](https://ojs.aaai.org/index.php/AAAI/article/view/16990)
+- [Exacerbating Algorithmic Bias through Fairness Attacks.](https://ojs.aaai.org/index.php/AAAI/article/view/17080)
+- [Minimum Robust Multi-Submodular Cover for Fairness.](https://ojs.aaai.org/index.php/AAAI/article/view/17100)
+- [Robust Fairness Under Covariate Shift.](https://ojs.aaai.org/index.php/AAAI/article/view/17135)
+- [Differentially Private and Fair Deep Learning: A Lagrangian Dual Approach.](https://ojs.aaai.org/index.php/AAAI/article/view/17193)
+- [Fairness in Forecasting and Learning Linear Dynamical Systems.](https://ojs.aaai.org/index.php/AAAI/article/view/17328)
+- [Variational Fair Clustering.](https://ojs.aaai.org/index.php/AAAI/article/view/17336)
+- [Individual Fairness in Kidney Exchange Programs.](https://ojs.aaai.org/index.php/AAAI/article/view/17369)
+- [Fair Representations by Compression.](https://ojs.aaai.org/index.php/AAAI/article/view/17370)
+- [Fair Influence Maximization: a Welfare Optimization Approach.](https://ojs.aaai.org/index.php/AAAI/article/view/17383)
+- [Group Fairness by Probabilistic Modeling with Latent Fair Decisions.](https://ojs.aaai.org/index.php/AAAI/article/view/17431)
+- [How Linguistically Fair Are Multilingual Pre-Trained Language Models?](https://ojs.aaai.org/index.php/AAAI/article/view/17505)
+- [Fairness in Influence Maximization through Randomization.](https://ojs.aaai.org/index.php/AAAI/article/view/17725)
+- [Fair and Interpretable Algorithmic Hiring using Evolutionary Many Objective Optimization.](https://ojs.aaai.org/index.php/AAAI/article/view/17737)
 
 ### [AISTATS 2021](https://dblp.uni-trier.de/db/conf/aistats/aistats2021.html)
 
