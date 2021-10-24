@@ -139,7 +139,19 @@
 
 ### [ICML 2021](https://dblp.uni-trier.de/db/conf/icml/icml2021.html)
 
-> TBD
+- [Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees.](http://proceedings.mlr.press/v139/celis21a.html)
+- [Fairness and Bias in Online Selection.](http://proceedings.mlr.press/v139/correa21a.html)
+- [Characterizing Fairness Over the Set of Good Models Under Selective Labels.](http://proceedings.mlr.press/v139/coston21a.html)
+- [On the Problem of Underranking in Group-Fair Ranking.](http://proceedings.mlr.press/v139/gorantla21a.html)
+- [Fairness for Image Generation with Uncertain Sensitive Attributes.](http://proceedings.mlr.press/v139/jalal21b.html)
+- [Fair Selective Classification Via Sufficiency.](http://proceedings.mlr.press/v139/lee21b.html)
+- [Ditto: Fair and Robust Federated Learning Through Personalization.](http://proceedings.mlr.press/v139/li21h.html)
+- [Approximate Group Fairness for Clustering.](http://proceedings.mlr.press/v139/li21j.html)
+- [Blind Pareto Fairness and Subgroup Robustness.](http://proceedings.mlr.press/v139/martinez21a.html)
+- [Testing Group Fairness via Optimal Transport Projections.](http://proceedings.mlr.press/v139/si21a.html)
+- [Collaborative Bayesian Optimization with Fair Regret.](http://proceedings.mlr.press/v139/sim21b.html)
+- [Fairness of Exposure in Stochastic Bandits.](http://proceedings.mlr.press/v139/wang21b.html)
+- [To be Robust or to be Fair: Towards Fairness in Adversarial Training.](http://proceedings.mlr.press/v139/xu21b.html)
 
 ### [IJCAI 2021](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2021.html)
 
