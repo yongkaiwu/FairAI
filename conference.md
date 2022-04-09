@@ -42,7 +42,10 @@
 
 ### [BIGDATA 2021](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2021.html)
 
-> TBD
+- [An Effective, Robust and Fairness-aware Hate Speech Detection Framework.](https://doi.org/10.1109/BigData52589.2021.9672022)
+- [Fairness-aware Bandit-based Recommendation.](https://doi.org/10.1109/BigData52589.2021.9671959)
+- [ExgFair: A Crowdsourcing Data Exchange Approach To Fair Human Face Datasets Augmentation.](https://doi.org/10.1109/BigData52589.2021.9671973)
+- [Bayesian model for Fairness in sampling from clustered data and FP-FN error rates.](https://doi.org/10.1109/BigData52589.2021.9671353)
 
 ### [CIKM 2021](https://dblp.uni-trier.de/db/conf/cikm/cikm2021.html)
 
