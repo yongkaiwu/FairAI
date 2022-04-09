@@ -135,7 +135,11 @@
 
 ### [ICDM 2021](https://dblp.uni-trier.de/db/conf/icdm/icdm2021.html)
 
-> TBD
+- [Fair Decision-making Under Uncertainty.](https://doi.org/10.1109/ICDM51629.2021.00100)
+- [Promoting Fairness through Hyperparameter Optimization.](https://doi.org/10.1109/ICDM51629.2021.00119)
+- [Fair Graph Auto-Encoder for Unbiased Graph Representations with Wasserstein Distance.](https://doi.org/10.1109/ICDM51629.2021.00122)
+- [A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning.](https://doi.org/10.1109/ICDM51629.2021.00194)
+- [Unified Fairness from Data to Learning Algorithm.](https://doi.org/10.1109/ICDM51629.2021.00195)
 
 ### [ICML 2021](https://dblp.uni-trier.de/db/conf/icml/icml2021.html)
 
