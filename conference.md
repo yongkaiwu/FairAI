@@ -1,5 +1,57 @@
 # Conference Papers
 
+## 2022
+
+### [AAAI 2022](https://dblp.uni-trier.de/db/conf/aaai/aaai2022.html)
+
+
+### [CIKM 2022](https://dblp.uni-trier.de/db/conf/cikm/cikm2022.html)
+
+
+### [FAT\* 2022](https://dblp.uni-trier.de/db/conf/fat/fat2022.html)
+
+
+### [ICDM 2022](https://dblp.uni-trier.de/db/conf/icdm/icdm2022.html)
+
+
+### [ICML 2022](https://dblp.uni-trier.de/db/conf/icml/icml2022.html)
+
+
+### [IJCAI 2022](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2022.html)
+
+
+### [KDD 2022](https://dblp.uni-trier.de/db/conf/kdd/kdd2022.html)
+
+
+### [NIPS 2022](https://dblp.uni-trier.de/db/conf/nips/neurips2022.html)
+
+
+### [SDM 2022](https://dblp.uni-trier.de/db/conf/sdm/sdm2022.html)
+
+
+### [UAI 2022](https://dblp.uni-trier.de/db/conf/uai/uai2022.html)
+
+
+### [WWW 2022](https://dblp.uni-trier.de/db/conf/www/www2022.html)
+
+
+### Others 2022
+
+#### [WSDM 2022](https://dblp.uni-trier.de/db/conf/wsdm/wsdm2022.html)
+
+- [k-Clustering with Fair Outliers.](https://doi.org/10.1145/3488560.3498485)
+- [Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning.](https://doi.org/10.1145/3488560.3498487)
+- [It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences Are Dynamic.](https://doi.org/10.1145/3488560.3498375)
+- [Introducing the Expohedron for Efficient Pareto-optimal Fairness-Utility Amortizations in Repeated Rankings.](https://doi.org/10.1145/3488560.3498490)
+- [Diversified Subgraph Query Generation with Group Fairness.](https://doi.org/10.1145/3488560.3498525)
+- [Learning Fair Node Representations with Graph Counterfactual Fairness.](https://doi.org/10.1145/3488560.3498391)
+- [Understanding and Mitigating the Effect of Outliers in Fair Ranking.](https://doi.org/10.1145/3488560.3498441)
+- [Enumerating Fair Packages for Group Recommendations.](https://doi.org/10.1145/3488560.3498432)
+- [Towards Unbiased and Robust Causal Ranking for Recommender Systems.](https://doi.org/10.1145/3488560.3498521)
+- [Assessing Algorithmic Biases for Musical Version Identification.](https://doi.org/10.1145/3488560.3498397)
+- [Towards Fair Classifiers Without Sensitive Attributes: Exploring Biases in Related Features.](https://doi.org/10.1145/3488560.3498493)
+- [Fighting Mainstream Bias in Recommender Systems via Local Fine Tuning.](https://doi.org/10.1145/3488560.3498427)
+
 ## 2021
 
 ### [AAAI 2021](https://dblp.uni-trier.de/db/conf/aaai/aaai2021.html)
