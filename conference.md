@@ -63,6 +63,24 @@
 
 ### [WWW 2022](https://dblp.uni-trier.de/db/conf/www/www2022.html)
 
+- [FairGAN: GANs-based Fairness-aware Learning for Recommendations with Implicit Feedback.](https://doi.org/10.1145/3485447.3511958)
+- [EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks.](https://doi.org/10.1145/3485447.3512173)
+- [Fair k-Center Clustering in MapReduce and Streaming Settings.](https://doi.org/10.1145/3485447.3512188)
+- [Unbiased Graph Embedding with Biased Graph Observations.](https://doi.org/10.1145/3485447.3512189)
+- [Rating Distribution Calibration for Selection Bias Mitigation in Recommendations.](https://doi.org/10.1145/3485447.3512078)
+- [UKD: Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation.](https://doi.org/10.1145/3485447.3512081)
+- [Unbiased Sequential Recommendation with Latent Confounders.](https://doi.org/10.1145/3485447.3512092)
+- [CBR: Context Bias aware Recommendation for Debiasing User Modeling and Click Prediction✱.](https://doi.org/10.1145/3485447.3512099)
+- [Cross Pairwise Ranking for Unbiased Item Recommendation.](https://doi.org/10.1145/3485447.3512010)
+- [Left or Right: A Peek into the Political Biases in Email Spam Filtering Algorithms During US Election 2020.](https://doi.org/10.1145/3485447.3512121)
+- [Controlled Analyses of Social Biases in Wikipedia Bios.](https://doi.org/10.1145/3485447.3512134)
+- [Scheduling Virtual Conferences Fairly: Achieving Equitable Participant and Speaker Satisfaction.](https://doi.org/10.1145/3485447.3512136)
+- [What Does Perception Bias on Social Networks Tell Us About Friend Count Satisfaction?](https://doi.org/10.1145/3485447.3511931)
+- [Fairness Audit of Machine Learning Models with Confidential Computing.](https://doi.org/10.1145/3485447.3512244)
+- [End-to-End Learning for Fair Ranking Systems.](https://doi.org/10.1145/3485447.3512247)
+- [Link Recommendations for PageRank Fairness.](https://doi.org/10.1145/3485447.3512249)
+- [Privacy-Preserving Fair Learning of Support Vector Machine with Homomorphic Encryption.](https://doi.org/10.1145/3485447.3512252)
+- [Alexa, in you, I trust! Fairness and Interpretability Issues in E-commerce Search through Smart Speakers.](https://doi.org/10.1145/3485447.3512265)
 
 ### Others 2022
 
