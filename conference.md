@@ -70,8 +70,10 @@
 ### [FAT\* 2022](https://dblp.uni-trier.de/db/conf/fat/fat2022.html)
 
 
-### [ICDM 2022](https://dblp.uni-trier.de/db/conf/icdm/icdm2022.html)
+### [ICLR 2022](https://dblp.uni-trier.de/db/conf/iclr/iclr2022.html)
 
+
+## [ICDM 2022](https://dblp.uni-trier.de/db/conf/icdm/icdm2022.html)
 
 ### [ICML 2022](https://dblp.uni-trier.de/db/conf/icml/icml2022.html)
 
@@ -301,6 +303,34 @@
 - [Fair Graph Auto-Encoder for Unbiased Graph Representations with Wasserstein Distance.](https://doi.org/10.1109/ICDM51629.2021.00122)
 - [A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning.](https://doi.org/10.1109/ICDM51629.2021.00194)
 - [Unified Fairness from Data to Learning Algorithm.](https://doi.org/10.1109/ICDM51629.2021.00195)
+
+### [ICLR 2021](https://dblp.uni-trier.de/db/conf/iclr/iclr2021.html)
+
+- [SenSeI: Sensitive Set Invariance for Enforcing Individual Fairness.](https://openreview.net/forum?id=DktZb97_Fx)
+- [Individually Fair Gradient Boosting.](https://openreview.net/forum?id=JBAa9we1AL)
+- [On Statistical Bias In Active Learning: How and When to Fix It.](https://openreview.net/forum?id=JiYq3eqTKY)
+- [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders.](https://openreview.net/forum?id=N6JECD-PI5w)
+- [Fair Mixup: Fairness via Interpolation.](https://openreview.net/forum?id=DNl5s5BXeBn)
+- [Individually Fair Rankings.](https://openreview.net/forum?id=71zCSP_HuBN)
+- [FairBatch: Batch Selection for Model Fairness.](https://openreview.net/forum?id=YNnpaAKeCfx)
+- [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving.](https://openreview.net/forum?id=O6LPudowNQm)
+- [Debiasing Concept-based Explanations with Causal Analysis.](https://openreview.net/forum?id=6puUoArESGp)
+- [Unbiased Teacher for Semi-Supervised Object Detection.](https://openreview.net/forum?id=MJIve1zgR_)
+- [Rethinking Soft Labels for Knowledge Distillation: A Bias-Variance Tradeoff Perspective.](https://openreview.net/forum?id=gIHd-5X324)
+- [Direction Matters: On the Implicit Bias of Stochastic Gradient Descent with Moderate Learning Rate.](https://openreview.net/forum?id=3X64RLgzY6O)
+- [A unifying view on implicit bias in training linear neural networks.](https://openreview.net/forum?id=ZsZM-4iMQkH)
+- [What Makes Instance Discrimination Good for Transfer Learning?](https://openreview.net/forum?id=tC6iW2UUbJf)
+- [Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation.](https://openreview.net/forum?id=e12NDM7wkEY)
+- [Shape-Texture Debiased Neural Network Training.](https://openreview.net/forum?id=Db4yerZTYkz)
+- [The inductive bias of ReLU networks on orthogonally separable data.](https://openreview.net/forum?id=krz7T0xU9Z_)
+- [Statistical inference for individual fairness.](https://openreview.net/forum?id=z9k8BWL-_2u)
+- [What they do when in doubt: a study of inductive biases in seq2seq learners.](https://openreview.net/forum?id=YmA86Zo-P_t)
+- [Learning from others' mistakes: Avoiding dataset biases without modeling them.](https://openreview.net/forum?id=Hf3qXoiNkR)
+- [Predicting Inductive Biases of Pre-Trained Models.](https://openreview.net/forum?id=mNtmhaDkAr)
+- [Does enhanced shape bias improve neural network robustness to common corruptions?](https://openreview.net/forum?id=yUxUNaj2Sl)
+- [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections.](https://openreview.net/forum?id=xgGS6PmzNq6)
+- [Why resampling outperforms reweighting for correcting sampling bias with stochastic gradients.](https://openreview.net/forum?id=iQQK02mxVIT)
+- [Towards Resolving the Implicit Bias of Gradient Descent for Matrix Factorization: Greedy Low-Rank Learning.](https://openreview.net/forum?id=AHOs7Sm5H7R)
 
 ### [ICML 2021](https://dblp.uni-trier.de/db/conf/icml/icml2021.html)
 
