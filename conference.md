@@ -109,6 +109,14 @@
 
 ### [IJCAI 2022](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2022.html)
 
+- [Individual Fairness Guarantees for Neural Networks.](https://doi.org/10.24963/ijcai.2022/92)
+- [How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?](https://doi.org/10.24963/ijcai.2022/93)
+- [SoFaiR: Single Shot Fair Representation Learning.](https://doi.org/10.24963/ijcai.2022/97)
+- [Fairness without the Sensitive Attribute via Causal Variational Autoencoder.](https://doi.org/10.24963/ijcai.2022/98)
+- [Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN.](https://doi.org/10.24963/ijcai.2022/103)
+- [Post-processing of Differentially Private Data: A Fairness Perspective.](https://doi.org/10.24963/ijcai.2022/559)
+- [Differential Privacy and Fairness in Decisions and Learning Tasks: A Survey.](https://doi.org/10.24963/ijcai.2022/766)
+- [Extending Decision Tree to Handle Multiple Fairness Criteria.](https://doi.org/10.24963/ijcai.2022/822)
 
 ### [KDD 2022](https://dblp.uni-trier.de/db/conf/kdd/kdd2022.html)
 
