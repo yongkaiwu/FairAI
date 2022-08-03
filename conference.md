@@ -187,6 +187,7 @@
 - [Link Recommendations for PageRank Fairness.](https://doi.org/10.1145/3485447.3512249)
 - [Privacy-Preserving Fair Learning of Support Vector Machine with Homomorphic Encryption.](https://doi.org/10.1145/3485447.3512252)
 - [Alexa, in you, I trust! Fairness and Interpretability Issues in E-commerce Search through Smart Speakers.](https://doi.org/10.1145/3485447.3512265)
+- [Regulatory Instruments for Fair Personalized Pricing.](https://doi.org/10.1145/3485447.3512046)
 
 ### Others 2022
 
