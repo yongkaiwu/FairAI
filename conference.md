@@ -109,6 +109,13 @@
 
 ### [ICLR 2022](https://dblp.uni-trier.de/db/conf/iclr/iclr2022.html)
 
+- [Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning.](https://openreview.net/forum?id=js62_xuLDDv)
+- [Fair Normalizing Flows.](https://openreview.net/forum?id=BrFIKuxrZE)
+- [Distributionally Robust Fair Principal Components via Geodesic Descents.](https://openreview.net/forum?id=9NVd-DMtThY)
+- [FairCal: Fairness Calibration for Face Verification.](https://openreview.net/forum?id=nRj0NcmSuxb)
+- [Fairness Guarantees under Demographic Shift.](https://openreview.net/forum?id=wbPObLm6ueA)
+- [Generalized Demographic Parity for Group Fairness.](https://openreview.net/forum?id=YigKlMJwjye)
+- [Fairness in Representation for Multilingual NLP: Insights from Controlled Experiments on Conditional Language Modeling.](https://openreview.net/forum?id=-llS6TiOew)
 
 ## [ICDM 2022](https://dblp.uni-trier.de/db/conf/icdm/icdm2022.html)
 
