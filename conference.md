@@ -202,6 +202,10 @@
 
 ### [UAI 2022](https://dblp.uni-trier.de/db/conf/uai/uai2022.html)
 
+- [Active approximately metric-fair learning.](https://proceedings.mlr.press/v180/cao22a.html)
+- [Quadratic metric elicitation for fairness and beyond.](https://proceedings.mlr.press/v180/hiranandani22a.html)
+- [Efficient resource allocation with fairness constraints in restless multi-armed bandits.](https://proceedings.mlr.press/v180/li22e.html)
+- [How unfair is private learning?](https://proceedings.mlr.press/v180/sanyal22a.html)
 
 ### [WWW 2022](https://dblp.uni-trier.de/db/conf/www/www2022.html)
 
