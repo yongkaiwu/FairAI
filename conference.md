@@ -103,6 +103,19 @@
 
 ### [CIKM 2022](https://dblp.uni-trier.de/db/conf/cikm/cikm2022.html)
 
+- [RAGUEL: Recourse-Aware Group Unfairness Elimination.](https://doi.org/10.1145/3511808.3557424)
+- [Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems.](https://doi.org/10.1145/3511808.3557423)
+- [Debiased Balanced Interleaving at Amazon Search.](https://doi.org/10.1145/3511808.3557123)
+- [Mitigating Biases in Student Performance Prediction via Attention-Based Personalized Federated Learning.](https://doi.org/10.1145/3511808.3557108)
+- [Cascaded Debiasing: Studying the Cumulative Effect of Multiple Fairness-Enhancing Interventions.](https://doi.org/10.1145/3511808.3557155)
+- [Towards Fairer Classifier via True Fairness Score Path.](https://doi.org/10.1145/3511808.3557109)
+- [Incorporating Fairness in Large-scale Evacuation Planning.](https://doi.org/10.1145/3511808.3557075)
+- [Causal Intervention for Sentiment De-biasing in Recommendation.](https://doi.org/10.1145/3511808.3557558)
+- [Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems.](https://doi.org/10.1145/3511808.3557576)
+- [Do Graph Neural Networks Build Fair User Models? Assessing Disparate Impact and Mistreatment in Behavioural User Profiling.](https://doi.org/10.1145/3511808.3557584)
+- [Balancing Utility and Exposure Fairness for Integrated Ranking with Reinforcement Learning.](https://doi.org/10.1145/3511808.3557551)
+- [Visual Encoding and Debiasing for CTR Prediction.](https://doi.org/10.1145/3511808.3557721)
+- [How Does the Crowd Impact the Model? A Tool for Raising Awareness of Social Bias in Crowdsourced Training Data.](https://doi.org/10.1145/3511808.3557178)
 
 ### [FAT\* 2022](https://dblp.uni-trier.de/db/conf/fat/fat2022.html)
 
